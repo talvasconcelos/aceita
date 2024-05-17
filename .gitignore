@@ -1,0 +1,38 @@
+# Ignore build artifacts
+build/
+public/build/
+
+# Ignore dependencies
+node_modules/
+
+# Ignore development server files
+.svelte-kit/
+.svelte/
+
+# Ignore editor and IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore logs and cache files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp/
+.pnp.js
+
+# Ignore OS and editor temporary files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.bak
+*~
+
+# Ignore environment-specific files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local

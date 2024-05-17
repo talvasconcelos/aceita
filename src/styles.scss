@@ -1,0 +1,47 @@
+// Define variables to override default ones
+$primary-color: #027df7;
+$secondary-color: #ff8e2b;
+
+// Import full Spectre source code
+@import '../node_modules/spectre.css/src/spectre.scss';
+
+body {
+  font-weight: 300;
+}
+
+.container {
+  width: 95%;
+}
+
+.btn {
+  height: 2rem;
+  padding-left: 1.1rem;
+  padding-right: 1.1rem;
+  &:hover {
+    background: $gray-color-light;
+  }
+}
+
+.navbar .navbar-brand {
+  font-size: 1.15rem;
+  font-weight: bold;
+  display: flex;
+}
+
+.list_custom > dd > a {
+  @extend .text-dark;
+  font-weight: 400;
+}
+
+.note {
+  width: 100%;
+  padding: 1em;
+
+  &.tip {
+    background-color: #e6ffe6;
+  }
+
+  &.warning {
+    background-color: #ffdcd0;
+  }
+}
