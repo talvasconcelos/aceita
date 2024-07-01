@@ -1,6 +1,6 @@
 <script>
-  import Header from '../components/Header.svelte';
-  import Feature from '../components/Feature.svelte';
+  import Header from "../components/Header.svelte";
+  import Feature from "../components/Feature.svelte";
 </script>
 
 <Header />

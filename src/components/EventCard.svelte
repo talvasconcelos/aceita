@@ -1,5 +1,13 @@
 <script>
-  export let title, subtitle, date, time, address, img, description, signinUrl, btnText;
+  export let title,
+    subtitle,
+    date,
+    time,
+    address,
+    img,
+    description,
+    signinUrl,
+    btnText;
 </script>
 
 <div class="card">
@@ -23,13 +31,13 @@
       </div>
     {/if}
   </div>
-    <div class="card-image">
+  <div class="card-image">
     {#if img}
       <img src={img} alt="event" class="img-responsive" />
-      {:else}
+    {:else}
       <img src="images/evento.png" alt="event" class="img-responsive" />
-      {/if}
-    </div>
+    {/if}
+  </div>
   {#if description}
     <div class="card-body">
       {description}
@@ -39,7 +47,7 @@
     {#if signinUrl}
       <button
         on:click={() => window.open(signinUrl, "_blank")}
-        class="btn btn-primary">{btnText ?? 'Inscrição'}</button
+        class="btn btn-primary">{btnText ?? "Inscrição"}</button
       >
     {/if}
   </div>
@@ -49,7 +57,8 @@
   .card {
     border: none;
     margin-bottom: 1rem;
-    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px,
+    box-shadow:
+      rgba(0, 0, 0, 0.1) 0px 4px 6px -1px,
       rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
   }
 

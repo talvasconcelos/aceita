@@ -1,5 +1,5 @@
 <script>
-  import { Link } from 'svelte-navigator';
+  import { Link } from "svelte-navigator";
 </script>
 
 <nav class="navbar container grid-xl">
@@ -13,8 +13,10 @@
     >
   </section>
   <section class="navbar-section">
+    <Link to="/encontros" class="btn btn-link">Encontros</Link>
     <Link to="/eventos" class="btn btn-link">Eventos</Link>
     <Link to="/porque-bitcoin" class="btn btn-link">Porquê Bitcoin</Link>
+    <Link to="/apoiantes" class="btn btn-link">Apoiantes</Link>
   </section>
 </nav>
 

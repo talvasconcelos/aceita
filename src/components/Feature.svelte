@@ -1,5 +1,5 @@
 <script>
-  import { Link } from 'svelte-navigator';
+  import { Link } from "svelte-navigator";
   export let img_right;
   export let title, text, img, buttonText, buttonURL;
 </script>

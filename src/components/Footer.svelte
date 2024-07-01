@@ -1,10 +1,10 @@
 <script>
-  import { Link } from 'svelte-navigator';
+  import { Link } from "svelte-navigator";
 </script>
 
 <footer>
   <div class="hero bg-gray">
-    <div class="hero-body container grid-lg ">
+    <div class="hero-body container grid-lg">
       <div class="columns">
         <div class="column col-6 col-sm-12">
           <h3 class="text-secondary">Aceita Bitcoin</h3>
@@ -18,10 +18,17 @@
           <h5>Links</h5>
           <dl class="list list_custom">
             <dd><Link to="/">Home</Link></dd>
+            <dd><Link to="/encontros">Encontros</Link></dd>
             <dd><Link to="/eventos">Eventos</Link></dd>
             <dd><Link to="/podcast">Podcast</Link></dd>
             <dd><Link to="/donate">Donativos</Link></dd>
-            <dd><a href="https://drive.google.com/drive/folders/1mMUwPTEKuXz5D3DX4IwbnJLoh3rd-J5g?usp=sharing" target="_blank">Recursos</a></dd>
+            <dd><Link to="/apoiantes">Apoiantes</Link></dd>
+            <dd>
+              <a
+                href="https://drive.google.com/drive/folders/1mMUwPTEKuXz5D3DX4IwbnJLoh3rd-J5g?usp=sharing"
+                target="_blank">Recursos</a
+              >
+            </dd>
             <!-- <dd>
               <a
                 class="tooltip"
@@ -72,8 +79,10 @@
         <span class="float-right"
           >Made by <a href="https://twitter.com/talvasconcelos" target="_blank"
             >talvasconcelos</a
-          ></span
-        >
+          >
+          and
+          <a href="https://twitter.com/Arminduhh" target="_blank">abjecto</a>
+        </span>
       </div>
     </div>
   </div>
