@@ -1,58 +1,22 @@
 <script>
     import PatronCard from "../components/PatronCard.svelte";
-    const mockPatrons = [
-        {
-            patronName: "Choppork",
-            patronService: "Ervaboca",
-            contact: "ervaboca@proton.me",
-            website: "https://www.ervaboca.pt",
-            img: "images/patrons/carne.jpeg",
-            serviceDescription: "Organic Grass Fed Barrosã",
-        },
-        {
-            patronName: "Ojeda",
-            patronService: "Residencia Paraguai",
-            contact: "ojeda@service.com",
-            website: "https://www.offshorePara.com",
-            img: "images/patrons/segundaresidencia.jpg",
-            serviceDescription: "Serviço de Obtenção de Residência Paraguai",
-        },
-        {
-            patronName: "Chico",
-            patronService: "Bitcoin Consulting",
-            contact: "chico@advisor.com",
-            website: "https://www.chicoconsulting.com",
-            img: "images/patrons/consultor.jpeg",
-            serviceDescription: "Serviço de Consultoria Bitcoiner",
-        },
-        {
-            patronName: "LocalP2P",
-            patronService: "Buy and Sell P2P",
-            contact: "local@p2p.com",
-            website: "https://www.p2p-pt.com",
-            img: "images/patrons/p2pbitcoin.png",
-            serviceDescription: "Serviço de Compra e Venda de Bitcoin P2P",
-        },
-    ];
 
     let patrons = [];
 
     async function fetchPatrons() {
-        const url = `https://raw.githubusercontent.com/talvasconcelos/aceita/main/patrons.json`;
+        const url = `https://raw.githubusercontent.com/miguelalmeida2/aceita/dev/patrons.json`;
         try {
             const response = await fetch(url);
             if (!response.ok) throw new Error("Patrons not found");
-            return response.json();
+            return await response.json();
         } catch (error) {
             console.error(`Error fetching Patrons:`, error);
-            return mockPatrons;
         }
     }
 
     // Fetch and order meetups on component initialization
     fetchPatrons().then((fetchedPatrons) => {
-        patrons = fetchedPatrons;
-        console.log(patrons);
+        patrons = fetchedPatrons.patrons;
     });
 </script>
 
