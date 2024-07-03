@@ -9,6 +9,14 @@
             "serviceDescription": "Organic Grass Fed Barrosã"
         },
         {
+            "patronName": "António Neves da Silva",
+            "patronService": "mot.gg",
+            "contact": "info@mot.gg",
+            "website": "www.mot.gg",
+            "img": "images/patrons/motGG.jpeg",
+            "serviceDescription": "Inteligência energética: eLearning gratuito, formações presenciais, monitorização de consumos em tempo real."
+        },
+        {
             "patronName": "Ojeda",
             "patronService": "Residencia Paraguai",
             "contact": "ojeda@service.com",
