@@ -25,6 +25,14 @@
             "serviceDescription": "Serviço de Consultoria Bitcoiner"
         },
         {
+            "patronName": "Carlos",
+            "patronService": "psybitcoin",
+            "contact": "support@psybitcoin.com",
+            "website": "https://psybitcoin.com/",
+            "img": "images/patrons/psybitcoin.jpeg",
+            "serviceDescription": "Learn about money and bitcoin with video lessons in Portuguese"
+        },
+        {
             "patronName": "LocalP2P",
             "patronService": "Buy and Sell P2P",
             "contact": "local@p2p.com",
