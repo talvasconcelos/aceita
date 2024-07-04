@@ -13,7 +13,7 @@
             "patronService": "mot.gg",
             "contact": "info@mot.gg",
             "website": "https://www.mot.gg",
-            "img": "images/patrons/motgg.jpeg",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/motgg.jpeg",
             "serviceDescription": "Inteligência energética: eLearning gratuito, formações presenciais, monitorização de consumos em tempo real."
         },
         {
