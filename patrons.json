@@ -33,6 +33,14 @@
             "serviceDescription": "Serviço de Consultoria Bitcoiner"
         },
         {
+            "patronName": "Monstera Media",
+            "patronService": "Monstera Books",
+            "contact": "info@monsteramedia.com",
+            "website": "https://monsterabooks.com/",
+            "img": "images/patrons/monstera-books.svg",
+            "serviceDescription": "Editora especializada em temas afectos a Bitcoin e liberdade."
+        },
+        {
             "patronName": "LocalP2P",
             "patronService": "Buy and Sell P2P",
             "contact": "local@p2p.com",
