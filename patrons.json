@@ -33,6 +33,14 @@
             "serviceDescription": "Serviço de Consultoria Bitcoiner"
         },
         {
+            "patronName": "Marcio Matos de Oliveira",
+            "patronService": "MMLaw Advogados",
+            "contact": "Avenida Fontes Pereira de Melo 35, 2A, 1250-118, Lisboa, Portugal - Telemóvel +351 913772903",
+            "website": "https://www.mmlaw.pt/",
+            "img": "images/patrons/mmlaw.jpeg",
+            "serviceDescription": "Law Firm Boutique specialized in the Blockchain, Fintech, Banking and Energy Industries."
+        },
+        {
             "patronName": "LocalP2P",
             "patronService": "Buy and Sell P2P",
             "contact": "local@p2p.com",
