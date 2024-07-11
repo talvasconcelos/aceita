@@ -37,7 +37,7 @@
             "patronService": "Chain Duel",
             "contact": "x.com/chainduel",
             "website": "https://game.chainduel.net/",
-            "img": "images/patrons/chain-duel.jpg",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/chain-duel.jpg",
             "serviceDescription": "Two chains fight for the next block reward. Engage in lightning-fast PvP duels in this revamp of the classic snake game."
         }
     ]
