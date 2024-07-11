@@ -28,12 +28,12 @@
     }
   }
 
-  // Fetch and order patrons on component initialization
+  // Fetch patrons on component initialization
   onMount(async () => {
     const fetchedPatrons = await fetchPatrons();
     if (fetchedPatrons && fetchedPatrons.patrons) {
       patrons = await Promise.all(
-        fetchedPatrons.map(async (patron) => {
+        fetchedPatrons.patrons.map(async (patron) => {
           patron.img = await fetchImage(patron.img);
           return patron;
         }),
