@@ -33,6 +33,14 @@
             "serviceDescription": "Serviço de Consultoria Bitcoiner"
         },
         {
+            "patronName": "Carlos",
+            "patronService": "psybitcoin",
+            "contact": "support@psybitcoin.com",
+            "website": "https://psybitcoin.com/",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/psybitcoin.jpeg",
+            "serviceDescription": "Learn about money and bitcoin with video lessons in Portuguese"
+        },
+        {
             "patronName": "Marcio Matos de Oliveira",
             "patronService": "MMLaw Advogados",
             "contact": "Avenida Fontes Pereira de Melo 35, 2A, 1250-118, Lisboa, Portugal - Telemóvel +351 913772903",
