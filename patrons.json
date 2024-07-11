@@ -37,7 +37,7 @@
             "patronService": "Monstera Books",
             "contact": "info@monsteramedia.com",
             "website": "https://monsterabooks.com/",
-            "img": "images/patrons/monstera-books.png",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/monstera-books.png",
             "serviceDescription": "Editora especializada em temas afectos a Bitcoin e liberdade."
         },
         {
