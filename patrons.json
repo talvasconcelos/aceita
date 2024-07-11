@@ -29,7 +29,7 @@
             "patronService": "psybitcoin",
             "contact": "support@psybitcoin.com",
             "website": "https://psybitcoin.com/",
-            "img": "images/patrons/psybitcoin.jpeg",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/psybitcoin.jpeg",
             "serviceDescription": "Learn about money and bitcoin with video lessons in Portuguese"
         },
         {
