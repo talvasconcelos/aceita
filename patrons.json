@@ -5,7 +5,7 @@
             "patronService": "Ervaboca",
             "contact": "ervaboca@proton.me",
             "website": "TBA",
-            "img": "images/patrons/ervaboca.jpeg",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/ervaboca.jpeg",
             "serviceDescription": "Carne Bovina Pura em Portugal: Sourcing e entrega de carne bovina de alta qualidade, obtida das regiões norte de Portugal, com foco na raça Barrosã. Os nossos critérios de seleção procuram apenas carnes de bovinos isentos de vacinas, sem antibióticos, sem hormonas e sem suplementos, criados seguindo métodos de agricultura regenerativa. Descubra a carne mais pura e saudável disponível em Portugal."
         },
         {
@@ -21,32 +21,16 @@
             "patronService": "Internacionalização - Paraguai",
             "contact": "+55 11 964355344",
             "website": "https://mosheinternacional.pulse.is/",
-            "img": "images/patrons/ojedamosheinternacional.jpg",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/ojedamosheinternacional.jpg",
             "serviceDescription": "Viabilizamos sua liberdade financeira com Assessoria em Internacionalização, Planejamento Tributário, Holding, Offshore e Visto para o Paraguai."
-        },
-        {
-            "patronName": "Chico",
-            "patronService": "Bitcoin Consulting",
-            "contact": "chico@advisor.com",
-            "website": "https://www.chicoconsulting.com",
-            "img": "images/patrons/consultor.jpeg",
-            "serviceDescription": "Serviço de Consultoria Bitcoiner"
         },
         {
             "patronName": "Marcio Matos de Oliveira",
             "patronService": "MMLaw Advogados",
             "contact": "Avenida Fontes Pereira de Melo 35, 2A, 1250-118, Lisboa, Portugal - Telemóvel +351 913772903",
             "website": "https://www.mmlaw.pt/",
-            "img": "images/patrons/mmlaw.jpeg",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/mmlaw.jpeg",
             "serviceDescription": "Law Firm Boutique specialized in the Blockchain, Fintech, Banking and Energy Industries."
-        },
-        {
-            "patronName": "LocalP2P",
-            "patronService": "Buy and Sell P2P",
-            "contact": "local@p2p.com",
-            "website": "https://www.p2p-pt.com",
-            "img": "images/patrons/p2pbitcoin.png",
-            "serviceDescription": "Serviço de Compra e Venda de Bitcoin P2P"
         }
     ]
 }
