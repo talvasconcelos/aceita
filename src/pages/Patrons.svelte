@@ -28,11 +28,7 @@
     }
   }
 
-  // Fetch and order meetups on component initialization
-  fetchPatrons().then((fetchedPatrons) => {
-    patrons = fetchedPatrons.patrons;
-  });
-
+  // Fetch and order patrons on component initialization
   onMount(async () => {
     const fetchedPatrons = await fetchPatrons();
     if (fetchedPatrons && fetchedPatrons.patrons) {
