@@ -33,13 +33,22 @@
             "serviceDescription": "Serviço de Consultoria Bitcoiner"
         },
         {
+            "patronName": "Monstera Media",
+            "patronService": "Monstera Books",
+            "contact": "info@monsteramedia.com",
+            "website": "https://monsterabooks.com/",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/monstera-books.png",
+            "serviceDescription": "Editora especializada em temas afectos a Bitcoin e liberdade."
+        },
+        {
             "patronName": "Francis e Pedro",
             "patronService": "Chain Duel",
             "contact": "x.com/chainduel",
             "website": "https://game.chainduel.net/",
             "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/chain-duel.jpg",
             "serviceDescription": "Two chains fight for the next block reward. Engage in lightning-fast PvP duels in this revamp of the classic snake game."
-        },{
+        },
+        {
             "patronName": "Carlos",
             "patronService": "psybitcoin",
             "contact": "support@psybitcoin.com",
