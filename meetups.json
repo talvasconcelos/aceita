@@ -13,14 +13,14 @@
             "link": "https://t.me/btcnortept"
         },
         {
-            "name": "Portugal Oeste - Bitcoin Meetup",
+            "name": "Oeste Bitcoin Maxi Meetup",
             "location": {
-                "place": "Pizzaria Papadoc",
-                "address": "R. Ilha do Corvo 1",
-                "city": "Marinha Grande"
+                "place": "Restaurante Real Balcão 5",
+                "address": "Largo dos Heróis de Naulila 5",
+                "city": "Caldas da Rainha"
             },
-            "time": "2024-05-22T19:30:00Z",
-            "img": "images/meetups/meetupOeste.jpeg",
+            "time": "2024-07-12T18:30:00Z",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/meetups/meetupOeste.jpeg",
             "description": "Traz um amigo - shitcoins not welcome",
             "link": "https://t.me/OesteBitcoinMeetUp"
         },

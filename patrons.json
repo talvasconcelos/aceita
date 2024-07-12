@@ -39,6 +39,13 @@
             "website": "https://game.chainduel.net/",
             "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/chain-duel.jpg",
             "serviceDescription": "Two chains fight for the next block reward. Engage in lightning-fast PvP duels in this revamp of the classic snake game."
+        },{
+            "patronName": "Carlos",
+            "patronService": "psybitcoin",
+            "contact": "support@psybitcoin.com",
+            "website": "https://psybitcoin.com/",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/psybitcoin.jpeg",
+            "serviceDescription": "Learn about money and bitcoin with video lessons in Portuguese"
         },
         {
             "patronName": "Marcio Matos de Oliveira",
