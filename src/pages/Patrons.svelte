@@ -1,4 +1,5 @@
 <script>
+  import { onMount } from "svelte";
   import PatronCard from "../components/PatronCard.svelte";
 
   let patrons = [];
@@ -14,9 +15,30 @@
     }
   }
 
-  // Fetch and order meetups on component initialization
-  fetchPatrons().then((fetchedPatrons) => {
-    patrons = fetchedPatrons.patrons;
+  async function fetchImage(imageUrl) {
+    const url = imageUrl;
+    try {
+      const response = await fetch(url);
+      if (!response.ok) throw new Error("Image not found");
+      const blob = await response.blob();
+      return URL.createObjectURL(blob);
+    } catch (error) {
+      console.error(`Error fetching image:`, error);
+      return ""; // Return empty string if image fetch fails
+    }
+  }
+
+  // Fetch patrons on component initialization
+  onMount(async () => {
+    const fetchedPatrons = await fetchPatrons();
+    if (fetchedPatrons && fetchedPatrons.patrons) {
+      patrons = await Promise.all(
+        fetchedPatrons.patrons.map(async (patron) => {
+          patron.img = await fetchImage(patron.img);
+          return patron;
+        }),
+      );
+    }
   });
 </script>
 
