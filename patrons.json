@@ -25,11 +25,27 @@
             "serviceDescription": "Viabilizamos sua liberdade financeira com Assessoria em Internacionalização, Planejamento Tributário, Holding, Offshore e Visto para o Paraguai."
         },
         {
-            "patronName": "Chico",
+        "patronName": "MAXIMA Citadel",
+        "patronService": "Maxfy",
+        "contact": "hello@maximacitadel.org",
+        "website": "https://maxfy.maximacitadel.org/",
+        "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/maxfy.jpeg",
+        "serviceDescription": "Compra de Bitcoin sem registo, sem KYC, 100% anónimo."
+        },
+        {
+        "patronName": "MAXIMA Citadel",
+        "patronService": "LotoMaxi",
+        "contact": "hello@maximacitadel.org",
+        "website": "https://lotomaxi.maximacitadel.org/",
+        "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/lotomaxi.jpeg",
+        "serviceDescription": "Aposta no preço da Bitcoin e ganha sats!"
+        },
+        {
+            "patronName": "Francisco Quadrio Monteiro",
             "patronService": "Bitcoin Consulting",
-            "contact": "chico@advisor.com",
-            "website": "https://www.chicoconsulting.com",
-            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/consultor.jpeg",
+            "contact": "zerofiat@themoneygame.pt",
+            "website": "https://www.themoneygame.pt/",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/consultor.png",
             "serviceDescription": "Serviço de Consultoria Bitcoiner"
         },
         {
