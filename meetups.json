@@ -7,10 +7,21 @@
                 "address": "Rua do Bonjardim 302",
                 "city": "Porto"
             },
-            "time": "2024-05-25 18:00:00Z",
-            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/meetups/meetupNorte.jpeg",
-            "description": "Toxic Maxis Only - No Shitcoins Allowed; Lightning Payments Accepted",
+            "time": "",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/meetups/porto.png",
+            "description": "",
             "link": "https://t.me/btcnortept"
+        },{
+            "name": "Bitcoin e Liberdade Meetup",
+            "location": {
+                    "place": "Alma do Raio",
+                "address": "Rua do Raio nº 38",
+                "city": "Braga"
+            },
+            "time": "",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/meetups/norte.png",
+            "description": "",
+            "link": "https://t.me/ancapbit"
         },
         {
             "name": "Oeste Bitcoin Maxi Meetup",
@@ -19,9 +30,9 @@
                 "address": "Largo dos Heróis de Naulila 5",
                 "city": "Caldas da Rainha"
             },
-            "time": "2024-07-12T18:30:00Z",
-            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/meetups/meetupOeste.jpeg",
-            "description": "Traz um amigo - shitcoins not welcome",
+            "time": "",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/meetups/oeste.png",
+            "description": "",
             "link": "https://t.me/OesteBitcoinMeetUp"
         },
         {
@@ -31,10 +42,10 @@
                 "address": "Campo Pequeno D",
                 "city": "Lisboa"
             },
-            "time": "2024-05-27T17:00:00Z",
-            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/meetups/meetupLisboa.jpeg",
-            "description": "The Genesis Book, by Aaron Van Wirdum",
-            "link": "https://www.meetup.com/lisbon-bitcoin-maximalists/"
+            "time": "",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/meetups/lisboa.png",
+            "description": "",
+            "link": "https://t.me/lisbonbitcoin"
         },
         {
             "name": "Bitcoin Tribe Algarve",
@@ -43,9 +54,9 @@
                 "address": "Somewhere in Algarve",
                 "city": "Faro"
             },
-            "time": "2024-05-27T17:00:00Z",
-            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/meetups/meetupAlgarve.jpeg",
-            "description": "No shitcoining - Ln Accepted",
+            "time": "",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/meetups/algarve.png",
+            "description": "",
             "link": "https://t.me/BitcoinAlgarve"
         },
         {
@@ -55,9 +66,9 @@
                 "address": "FREE MADEIRA CoWorkSpace",
                 "city": "Funchal"
             },
-            "time": "2024-05-30T17:00:00Z",
-            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/meetups/meetupMadeira.jpeg",
-            "description": "No shitcoining - Ln Accepted",
+            "time": "",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/meetups/madeira.png",
+            "description": "",
             "link": "https://t.me/freemadeira"
         }
     ]

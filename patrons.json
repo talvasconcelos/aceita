@@ -4,9 +4,9 @@
             "patronName": "Choppork",
             "patronService": "Ervaboca",
             "contact": "ervaboca@proton.me",
-            "website": "TBA",
-            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/ervaboca.jpeg",
-            "serviceDescription": "Carne Bovina Pura em Portugal: Sourcing e entrega de carne bovina de alta qualidade, obtida das regiões norte de Portugal, com foco na raça Barrosã. Os nossos critérios de seleção procuram apenas carnes de bovinos isentos de vacinas, sem antibióticos, sem hormonas e sem suplementos, criados seguindo métodos de agricultura regenerativa. Descubra a carne mais pura e saudável disponível em Portugal."
+            "website": "https://www.ervaboca.pt",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/ervaboca.png",
+            "serviceDescription": "Organic Grass Fed Barrosã"
         },
         {
             "patronName": "António Neves da Silva",
@@ -29,7 +29,7 @@
             "patronService": "Bitcoin Consulting",
             "contact": "chico@advisor.com",
             "website": "https://www.chicoconsulting.com",
-            "img": "images/patrons/consultor.jpeg",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/consultor.jpeg",
             "serviceDescription": "Serviço de Consultoria Bitcoiner"
         },
         {
