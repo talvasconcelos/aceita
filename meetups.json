@@ -7,20 +7,20 @@
                 "address": "Rua do Bonjardim 302",
                 "city": "Porto"
             },
-            "time": "",
+            "time": "2025-03-22 18:00:00Z",
             "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/meetups/porto.png",
-            "description": "",
+            "description": "Toxic Maxis Only - No Shitcoins Allowed",
             "link": "https://t.me/btcnortept"
         },{
             "name": "Bitcoin e Liberdade Meetup",
             "location": {
-                    "place": "Alma do Raio",
+                "place": "Alma do Raio",
                 "address": "Rua do Raio nº 38",
                 "city": "Braga"
             },
-            "time": "",
+            "time": "2025-03-22 18:00:00Z",
             "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/meetups/norte.png",
-            "description": "",
+            "description": "Traz um amigo",
             "link": "https://t.me/ancapbit"
         },
         {
@@ -30,9 +30,9 @@
                 "address": "Largo dos Heróis de Naulila 5",
                 "city": "Caldas da Rainha"
             },
-            "time": "",
+            "time": "2025-03-22 18:00:00Z",
             "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/meetups/oeste.png",
-            "description": "",
+            "description": "No shitcoining - Ln Accepted",
             "link": "https://t.me/OesteBitcoinMeetUp"
         },
         {
@@ -42,9 +42,9 @@
                 "address": "Campo Pequeno D",
                 "city": "Lisboa"
             },
-            "time": "",
+            "time": "2025-03-22 18:00:00Z",
             "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/meetups/lisboa.png",
-            "description": "",
+            "description": "Traz um amigo",
             "link": "https://t.me/lisbonbitcoin"
         },
         {
@@ -54,9 +54,9 @@
                 "address": "Somewhere in Algarve",
                 "city": "Faro"
             },
-            "time": "",
+            "time": "2025-03-22 18:00:00Z",
             "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/meetups/algarve.png",
-            "description": "",
+            "description": "No shitcoining - Ln Accepted",
             "link": "https://t.me/BitcoinAlgarve"
         },
         {
@@ -66,9 +66,9 @@
                 "address": "FREE MADEIRA CoWorkSpace",
                 "city": "Funchal"
             },
-            "time": "",
+            "time": "2025-03-22 18:00:00Z",
             "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/meetups/madeira.png",
-            "description": "",
+            "description": "No shitcoining - Ln Accepted",
             "link": "https://t.me/freemadeira"
         }
     ]
