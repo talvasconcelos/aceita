@@ -5,7 +5,7 @@
             "patronService": "Ervaboca",
             "contact": "ervaboca@proton.me",
             "website": "https://www.ervaboca.pt",
-            "img": "images/patrons/carne.jpeg",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/ervaboca.png",
             "serviceDescription": "Organic Grass Fed Barrosã"
         },
         {
@@ -21,7 +21,7 @@
             "patronService": "Internacionalização - Paraguai",
             "contact": "+55 11 964355344",
             "website": "https://mosheinternacional.pulse.is/",
-            "img": "images/patrons/ojedamosheinternacional.jpg",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/ojedamosheinternacional.jpg",
             "serviceDescription": "Viabilizamos sua liberdade financeira com Assessoria em Internacionalização, Planejamento Tributário, Holding, Offshore e Visto para o Paraguai."
         },
         {
@@ -29,16 +29,40 @@
             "patronService": "Bitcoin Consulting",
             "contact": "chico@advisor.com",
             "website": "https://www.chicoconsulting.com",
-            "img": "images/patrons/consultor.jpeg",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/consultor.jpeg",
             "serviceDescription": "Serviço de Consultoria Bitcoiner"
         },
         {
-            "patronName": "LocalP2P",
-            "patronService": "Buy and Sell P2P",
-            "contact": "local@p2p.com",
-            "website": "https://www.p2p-pt.com",
-            "img": "images/patrons/p2pbitcoin.png",
-            "serviceDescription": "Serviço de Compra e Venda de Bitcoin P2P"
+            "patronName": "Monstera Media",
+            "patronService": "Monstera Books",
+            "contact": "info@monsteramedia.com",
+            "website": "https://monsterabooks.com/",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/monstera-books.png",
+            "serviceDescription": "Editora especializada em temas afectos a Bitcoin e liberdade."
+        },
+        {
+            "patronName": "Francis e Pedro",
+            "patronService": "Chain Duel",
+            "contact": "x.com/chainduel",
+            "website": "https://game.chainduel.net/",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/chain-duel.jpg",
+            "serviceDescription": "Two chains fight for the next block reward. Engage in lightning-fast PvP duels in this revamp of the classic snake game."
+        },
+        {
+            "patronName": "Carlos",
+            "patronService": "psybitcoin",
+            "contact": "support@psybitcoin.com",
+            "website": "https://psybitcoin.com/",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/psybitcoin.jpeg",
+            "serviceDescription": "Learn about money and bitcoin with video lessons in Portuguese"
+        },
+        {
+            "patronName": "Marcio Matos de Oliveira",
+            "patronService": "MMLaw Advogados",
+            "contact": "Avenida Fontes Pereira de Melo 35, 2A, 1250-118, Lisboa, Portugal - Telemóvel +351 913772903",
+            "website": "https://www.mmlaw.pt/",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/mmlaw.jpeg",
+            "serviceDescription": "Law Firm Boutique specialized in the Blockchain, Fintech, Banking and Energy Industries."
         }
     ]
 }

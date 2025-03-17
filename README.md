@@ -12,7 +12,7 @@
                 "city": "Cidade"
             },
             "time": "aaaa-mm-ddThh:mm:ssZ",
-            "img": "images/meetups/'nomeDaImagemAqui.jpeg'",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/meetups/'nomeDaImagemAqui.jpeg'",
             "description": "Descrição do Meetup (Se há suporte a pagamentos em LN, possível speaker...)",
             "link": "link para o registo no evento ou para o grupo de telegram mais próximo"
         }
@@ -30,7 +30,7 @@
             "patronService": "Nome do Serviço do Patrono",
             "contact": "contacto(email ou numero de telefone)",
             "website": "link para o website",
-            "img": "images/patrons/'nomeDaImagemAqui.jpeg'",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/'nomeDaImagemAqui.jpeg'",
             "serviceDescription": "Descrição do Serviço"
         }
     ```

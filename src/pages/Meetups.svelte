@@ -1,4 +1,5 @@
 <script>
+  import { onMount } from "svelte";
   import MeetupCard from "../components/MeetupCard.svelte";
 
   let meetups = [];
@@ -11,6 +12,19 @@
       return await response.json();
     } catch (error) {
       console.error(`Error fetching Meetups:`, error);
+    }
+  }
+
+  async function fetchImage(imageUrl) {
+    const url = imageUrl;
+    try {
+      const response = await fetch(url);
+      if (!response.ok) throw new Error("Image not found");
+      const blob = await response.blob();
+      return URL.createObjectURL(blob);
+    } catch (error) {
+      console.error(`Error fetching image:`, error);
+      return ""; // Return empty string if image fetch fails
     }
   }
 
@@ -37,8 +51,17 @@
   }
 
   // Fetch and order meetups on component initialization
-  fetchMeetups().then((fetchedMeetups) => {
-    meetups = orderMeetups(fetchedMeetups.meetups);
+  onMount(async () => {
+    const fetchedMeetups = await fetchMeetups();
+    if (fetchedMeetups && fetchedMeetups.meetups) {
+      const orderedMeetups = orderMeetups(fetchedMeetups.meetups);
+      meetups = await Promise.all(
+        orderedMeetups.map(async (meetup) => {
+          meetup.img = await fetchImage(meetup.img);
+          return meetup;
+        }),
+      );
+    }
   });
 </script>
 
