@@ -38,11 +38,11 @@
         {
             "name": "Lisbon Bitcoin Maxis",
             "location": {
-                "place": "Carnalentejana",
-                "address": "Campo Pequeno D",
+                "place": "La Paparrucha",
+                "address": "R. Dom Pedro V 18 20, 1250-094",
                 "city": "Lisboa"
             },
-            "time": "2025-04-22 18:00:00Z",
+            "time": "2025-04-3 19:21:00Z",
             "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/meetups/lisboa.png",
             "description": "Traz um amigo",
             "link": "https://t.me/lisbonbitcoin"
