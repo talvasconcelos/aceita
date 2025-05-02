@@ -41,6 +41,23 @@
         "serviceDescription": "Aposta no preço da Bitcoin e ganha sats!"
         },
         {
+        "patronName": "Leonardo Maximiliano, Guilherme Campos, Giovanni Dittrich",
+        "patronService": "DIY Security Lab",
+        "contact": "WhatsApp suporte +55 11 91905-0416",
+        "website": "https://diyseclab.io",
+        "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/diyseclab.png",
+        "serviceDescription": "És bitcoiner e queres guardar os teus bitcoins em autocustódia de forma ultra segura, mas não és hacker nem génio da informática? Nós ajudamos! Oferecemos uma hardware wallet fácil de montar e usar, totalmente air-gapped, sempre offline e sem memória permanente. Somos especialistas em Bitcoin, hardware wallets e comunicações. Ensinamos, de forma clara e simples, até a tua avó a montar uma das carteiras mais seguras do mercado.
+Código aberto, com todos os componentes hardware inspecionados por ti mesmo com a nossa ajuda do inicio ao final."
+        },
+        {
+        "patronName": "Leonardo Maximiliano, Guilherme Campos, Giovanni Dittrich",
+        "patronService": "Alfred P2P",
+        "contact": "WhatsApp suporte +55 11 91905-0416",
+        "website": "https://www.alfredp2p.io/en",
+        "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/alfredp2p.jpg",
+        "serviceDescription": "O primeiro p2p automatizado disponível em Portugal 🇵🇹 Compre seu BTC sem KYC em questão de minutos. Sem falar com ninguém. Apenas clicar pagar e receber teus Bitcoins de forma segura e anonima. No emails, No IDs, No troubles."
+        },
+        {
             "patronName": "Francisco Quadrio Monteiro",
             "patronService": "Bitcoin Consulting",
             "contact": "zerofiat@themoneygame.pt",
