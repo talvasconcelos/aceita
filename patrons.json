@@ -25,6 +25,14 @@
             "serviceDescription": "Viabilizamos sua liberdade financeira com Assessoria em Internacionalização, Planejamento Tributário, Holding, Offshore e Visto para o Paraguai."
         },
         {
+            "patronName": "Camila Vargas, Gustavo Rodarte, Lígia Rolim, Luciano Rolim",
+            "patronService": "Passaporte Tech",
+            "contact": "E-mail: contato@passaporte.tech | WhatsApp: +55 11 94576-1989",
+            "website": "https://passaporte.tech/",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/passaporTech.jpg",
+            "serviceDescription": "Abrindo portas para sua carreira internacional em TI. Preparamos profissionais de TI para o mercado global com consultoria personalizada, estratégias práticas e insights de especialistas de diferentes áreas em TI que já atuam no exterior."
+        },
+        {
         "patronName": "Maxfy",
         "patronService": "Maxfy",
         "contact": "hey@maxfy.app",

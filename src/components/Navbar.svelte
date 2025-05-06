@@ -16,7 +16,7 @@
     <Link to="/encontros" class="btn btn-link">Encontros</Link>
     <Link to="/eventos" class="btn btn-link">Eventos</Link>
     <Link to="/porque-bitcoin" class="btn btn-link">Porquê Bitcoin</Link>
-    <Link to="/apoiantes" class="btn btn-link">Apoiantes</Link>
+    <Link to="/parceiros" class="btn btn-link">Parceiros</Link>
   </section>
 </nav>
 
