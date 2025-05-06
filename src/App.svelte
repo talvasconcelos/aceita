@@ -33,7 +33,7 @@
     <Route path="/porque-bitcoin">
       <Why />
     </Route>
-    <Route path="/apoiantes">
+    <Route path="/parceiros">
       <Patrons />
     </Route>
     <Route path="/como-funciona-bitcoin">

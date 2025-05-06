@@ -22,7 +22,7 @@
             <dd><Link to="/eventos">Eventos</Link></dd>
             <dd><Link to="/podcast">Podcast</Link></dd>
             <dd><Link to="/donate">Donativos</Link></dd>
-            <dd><Link to="/apoiantes">Apoiantes</Link></dd>
+            <dd><Link to="/parceiros">Parceiros</Link></dd>
             <dd>
               <a
                 href="https://drive.google.com/drive/folders/1mMUwPTEKuXz5D3DX4IwbnJLoh3rd-J5g?usp=sharing"

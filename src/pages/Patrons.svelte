@@ -36,7 +36,7 @@
         fetchedPatrons.patrons.map(async (patron) => {
           patron.img = await fetchImage(patron.img);
           return patron;
-        }),
+        })
       );
     }
   });
@@ -44,7 +44,7 @@
 
 <section class="container grid-lg">
   <header>
-    <h2>Apoiantes</h2>
+    <h2>Parceiros</h2>
     <div class="subtitle">
       <p>Descubra as pessoas que apoiam o nosso trabalho</p>
     </div>
