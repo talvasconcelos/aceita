@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="512" height="512" viewBox="0 0 512 512" xml:space="preserve">
+<desc>Created with Fabric.js 3.6.6</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 252.68 248.42)"  >
+<g style=""   >
+		<g transform="matrix(0 0 0 0 -252.68 -242.42)"  >
+<circle style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="0" />
+</g>
+		<g transform="matrix(5.94 0 0 5.94 3.25 1.61)"  >
+<linearGradient id="SVGID_38" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -40 -40)"  x1="0" y1="37.599999999999994" x2="80" y2="42.400000000000006">
+<stop offset="0%" style="stop-color:rgba(228, 37, 24, 1);"/>
+<stop offset="0%" style="stop-color:rgba(4, 106, 56, 1);"/>
+<stop offset="17.561%" style="stop-color:rgba(4, 106, 56, 1);"/>
+<stop offset="54.63400000000001%" style="stop-color:rgba(218, 41, 28, 1);"/>
+<stop offset="100%" style="stop-color:rgba(218, 41, 28, 1);"/>
+</linearGradient>
+<circle style="stroke: rgb(228,37,24); stroke-opacity: 0; stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_38); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="40" />
+</g>
+		<g transform="matrix(11.35 0 0 11.35 -2.12 0)"  >
+<linearGradient id="SVGID_39" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 15.57 11.15)"  x1="0" y1="19.04581" x2="30.61401030322174" y2="21.477190000000004">
+<stop offset="25.854%" style="stop-color:rgba(4, 106, 56, 1);"/>
+<stop offset="100%" style="stop-color:rgba(218, 41, 28, 1);"/>
+<stop offset="100%" style="stop-color:rgba(228, 37, 24, 1);"/>
+<stop offset="100%" style="stop-color:rgba(218, 41, 28, 1);"/>
+<stop offset="100%" style="stop-color:rgba(218, 41, 28, 1);"/>
+</linearGradient>
+<path style="stroke: none; stroke-width: 5; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_39); fill-rule: nonzero; opacity: 1;"  transform=" translate(-30.88, -31.41)" d="m 46.103 27.444 c 0.637 -4.258 -2.605 -6.547 -7.038 -8.074 l 1.438 -5.768 l -3.511 -0.875 l -1.4 5.616 c -0.923 -0.23 -1.871 -0.447 -2.813 -0.662 l 1.41 -5.653 l -3.509 -0.875 l -1.439 5.766 c -0.764 -0.174 -1.514 -0.346 -2.242 -0.527 l 0.004 -0.018 l -4.842 -1.209 l -0.934 3.75 s 2.605 0.597 2.55 0.634 c 1.422 0.355 1.679 1.296 1.636 2.042 l -1.638 6.571 c 0.098 0.025 0.225 0.061 0.365 0.117 c -0.117 -0.029 -0.242 -0.061 -0.371 -0.092 l -2.296 9.205 c -0.174 0.432 -0.615 1.08 -1.609 0.834 c 0.035 0.051 -2.552 -0.637 -2.552 -0.637 l -1.743 4.019 l 4.569 1.139 c 0.85 0.213 1.683 0.436 2.503 0.646 l -1.453 5.834 l 3.507 0.875 l 1.439 -5.772 c 0.958 0.26 1.888 0.5 2.798 0.726 l -1.434 5.745 l 3.511 0.875 l 1.453 -5.823 c 5.987 1.133 10.489 0.676 12.384 -4.739 c 1.527 -4.36 -0.076 -6.875 -3.226 -8.515 c 2.294 -0.529 4.022 -2.038 4.483 -5.155 z m -8.022 11.249 c -1.085 4.36 -8.426 2.003 -10.806 1.412 l 1.928 -7.729 c 2.38 0.594 10.012 1.77 8.878 6.317 z m 1.086 -11.312 c -0.99 3.966 -7.1 1.951 -9.082 1.457 l 1.748 -7.01 c 1.982 0.494 8.365 1.416 7.334 5.553 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(2.51 0.01 -0.01 2.51 -4.55 11.62)" style=""  >
+		<text xml:space="preserve" font-family="'Oswald', sans-serif" font-size="31" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-92.82" y="9.74" style="font-weight: bold; white-space: pre; "> </tspan><tspan x="-81.02" y="9.74" style="font-weight: bold; ">A</tspan><tspan x="-61.07" y="9.74" style="font-weight: bold; white-space: pre; "> </tspan><tspan x="-49.28" y="9.74" style="font-weight: bold; ">C</tspan><tspan x="-28.61" y="9.74" style="font-weight: bold; white-space: pre; "> </tspan><tspan x="-16.82" y="9.74" style="font-weight: bold; ">E</tspan><tspan x="0.5" y="9.74" style="font-weight: bold; white-space: pre; "> </tspan><tspan x="12.29" y="9.74" style="font-weight: bold; ">I</tspan><tspan x="24.68" y="9.74" style="font-weight: bold; white-space: pre; "> </tspan><tspan x="36.47" y="9.74" style="font-weight: bold; ">T</tspan><tspan x="53.97" y="9.74" style="font-weight: bold; white-space: pre; "> </tspan><tspan x="65.77" y="9.74" style="font-weight: bold; ">A</tspan><tspan x="85.72" y="9.74" style="font-weight: bold; white-space: pre; "> </tspan></text>
+</g>
+		<g transform="matrix(2.74 0.02 -0.02 2.74 5.45 62.86)" style=""  >
+		<text xml:space="preserve" font-family="'Open Sans', sans-serif" font-size="10" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-49.62" y="3.14" style="stroke-width: 1; font-family: 'Oswald', sans-serif; font-style: normal; font-weight: bold; ">E</tspan><tspan x="-43.88" y="3.14" style="stroke-width: 1; font-family: 'Oswald', sans-serif; font-style: normal; font-weight: bold; ">S</tspan><tspan x="-37.48" y="3.14" style="stroke-width: 1; font-family: 'Oswald', sans-serif; font-style: normal; font-weight: bold; ">T</tspan><tspan x="-32.22" y="3.14" style="stroke-width: 1; font-family: 'Oswald', sans-serif; font-style: normal; font-weight: bold; ">.</tspan><tspan x="-28.67" y="3.14" style="stroke-width: 1; font-family: 'Oswald', sans-serif; font-style: normal; font-weight: bold; white-space: pre; "> </tspan><tspan x="-24.71" y="3.14" style="stroke-width: 1; font-family: 'Oswald', sans-serif; font-style: normal; font-weight: bold; ">B</tspan><tspan x="-17.81" y="3.14" style="stroke-width: 1; font-family: 'Oswald', sans-serif; font-style: normal; font-weight: bold; ">L</tspan><tspan x="-12.23" y="3.14" style="stroke-width: 1; font-family: 'Oswald', sans-serif; font-style: normal; font-weight: bold; ">O</tspan><tspan x="-5.18" y="3.14" style="stroke-width: 1; font-family: 'Oswald', sans-serif; font-style: normal; font-weight: bold; ">C</tspan><tspan x="1.64" y="3.14" style="stroke-width: 1; font-family: 'Oswald', sans-serif; font-style: normal; font-weight: bold; ">K</tspan><tspan x="8.26" y="3.14" style="stroke-width: 1; font-family: 'Oswald', sans-serif; font-style: normal; font-weight: bold; white-space: pre; "> </tspan><tspan x="12.21" y="3.14" style="stroke-width: 1; font-family: 'Oswald', sans-serif; font-style: normal; font-weight: bold; ">7</tspan><tspan x="17.74" y="3.14" style="stroke-width: 1; font-family: 'Oswald', sans-serif; font-style: normal; font-weight: bold; ">0</tspan><tspan x="24.58" y="3.14" style="stroke-width: 1; font-family: 'Oswald', sans-serif; font-style: normal; font-weight: bold; ">9</tspan><tspan x="31.26" y="3.14" style="stroke-width: 1; font-family: 'Oswald', sans-serif; font-style: normal; font-weight: bold; ">9</tspan><tspan x="37.95" y="3.14" style="stroke-width: 1; font-family: 'Oswald', sans-serif; font-style: normal; font-weight: bold; ">4</tspan><tspan x="44.45" y="3.14" style="stroke-width: 1; font-family: 'Oswald', sans-serif; font-style: normal; font-weight: bold; ">0</tspan></text>
+</g>
+</g>
+</g>
+</svg>
