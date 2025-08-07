@@ -1,6 +1,28 @@
-// Define variables to override default ones
-$primary-color: #027df7;
-$secondary-color: #ff8e2b;
+// Theme variables
+$bitcoin-orange: #f7931a;
+$bitcoin-orange-light: #ffa533;
+$bitcoin-orange-dark: #e07d0e;
+$button-blue: #027df7;
+$button-blue-light: #2196f3;
+$button-blue-dark: #0056b3;
+$primary-color: $bitcoin-orange;
+$secondary-color: #4a4a4a;
+$bg-dark: #212121;
+$bg-light: #ffffff;
+
+// Custom CSS properties for theming
+:root {
+  --bitcoin-orange: #{$bitcoin-orange};
+  --bitcoin-orange-light: #{$bitcoin-orange-light};
+  --bitcoin-orange-dark: #{$bitcoin-orange-dark};
+  --button-blue: #{$button-blue};
+  --button-blue-light: #{$button-blue-light};
+  --button-blue-dark: #{$button-blue-dark};
+  --primary-color: #{$primary-color};
+  --secondary-color: #{$secondary-color};
+  --bg-dark: #{$bg-dark};
+  --bg-light: #{$bg-light};
+}
 
 // Import full Spectre source code
 @import '../node_modules/spectre.css/src/spectre.scss';
@@ -17,8 +39,26 @@ body {
   height: 2rem;
   padding-left: 1.1rem;
   padding-right: 1.1rem;
+  background: $button-blue;
+  color: white !important;
+  border: none;
+  transition: all 0.2s ease;
+
   &:hover {
-    background: $gray-color-light;
+    background: $button-blue-light;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    color: white !important;
+  }
+
+  &:active {
+    background: $button-blue-dark;
+    transform: translateY(0);
+    color: white !important;
+  }
+
+  &, & * {
+    color: white !important;
   }
 }
 

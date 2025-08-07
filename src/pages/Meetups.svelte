@@ -28,93 +28,99 @@
     }
   }
 
-  function orderMeetups(meetups) {
-    return meetups.sort((a, b) => {
-      const dateA = new Date(a.time).getTime();
-      const dateB = new Date(b.time).getTime();
-      a.newDate = new Date(a.time).toLocaleDateString("pt-pt", {
-        weekday: "long",
-        year: "numeric",
-        month: "short",
-        day: "numeric",
-      });
-      a.newTime = new Date(a.time).toLocaleTimeString();
-      b.newDate = new Date(b.time).toLocaleDateString("pt-pt", {
-        weekday: "long",
-        year: "numeric",
-        month: "short",
-        day: "numeric",
-      });
-      b.newTime = new Date(b.time).toLocaleTimeString();
-      return dateA - dateB;
-    });
-  }
-
-  // Fetch and order meetups on component initialization
+  // Fetch on component initialization
   onMount(async () => {
     const fetchedMeetups = await fetchMeetups();
     if (fetchedMeetups && fetchedMeetups.meetups) {
-      const orderedMeetups = orderMeetups(fetchedMeetups.meetups);
       meetups = await Promise.all(
-        orderedMeetups.map(async (meetup) => {
+        fetchedMeetups.meetups.map(async (meetup) => {
           meetup.img = await fetchImage(meetup.img);
           return meetup;
-        }),
+        })
       );
     }
   });
 </script>
 
-<section class="container grid-lg">
-  <header>
-    <h2>Encontros</h2>
-    <div class="subtitle">
-      <p>Descubra os encontros que decorrem perto de si</p>
+<section class="meetups-section">
+  <div class="container grid-lg">
+    <header class="section-header">
+      <h2>Encontros</h2>
+      <div class="subtitle">
+        <p>Descubra os encontros que decorrem perto de si</p>
+      </div>
+    </header>
+    <div class="card-grid">
+      {#each meetups as meetup, i}
+        <MeetupCard
+          title={meetup.name}
+          subtitle={""}
+          img={meetup.img}
+          description={meetup.description}
+          signinUrl={meetup.link}
+          btnText="Saber Mais"
+        />
+      {/each}
     </div>
-  </header>
-  <div class="card-grid">
-    {#each meetups as meetup, i}
-      <MeetupCard
-        title={meetup.name}
-        subtitle={""}
-        place={meetup.location.place}
-        address={meetup.location.address}
-        city={meetup.location.city}
-        date={meetup.newDate}
-        time={meetup.newTime}
-        img={meetup.img}
-        description={meetup.description}
-        signinUrl={meetup.link}
-        btnText="Saber Mais"
-      />
-    {/each}
   </div>
 </section>
 
 <style>
-  header {
-    margin-bottom: 3rem;
+  .meetups-section {
+    padding: 4rem 0;
+    background-color: #f8fafc;
   }
-  .event-list {
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
+
+  .section-header {
+    text-align: center;
+    margin-bottom: 3.5rem;
   }
+
+  .section-header h2 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #1a202c;
+    margin-bottom: 1rem;
+  }
+
+  .subtitle {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  .subtitle p {
+    font-size: 1.125rem;
+    color: #64748b;
+    line-height: 1.6;
+  }
+
   .card-grid {
-    display: block;
+    display: grid;
+    gap: 2rem;
+    grid-template-columns: 1fr;
   }
-  @media (min-width: 600px) {
+
+  @media (min-width: 640px) {
     .card-grid {
-      display: grid;
-      gap: 1rem;
-      grid-template-columns: repeat(auto-fill, minmax(35%, 1fr));
+      grid-template-columns: repeat(2, 1fr);
     }
   }
-  @media (min-width: 1280px) {
-    .card-grid {
-      display: grid;
-      gap: 1rem;
-      grid-template-columns: repeat(auto-fill, minmax(25%, 1fr));
+
+  @media (max-width: 639px) {
+    .meetups-section {
+      padding: 3rem 0;
+    }
+
+    .section-header {
+      margin-bottom: 2.5rem;
+    }
+
+    .section-header h2 {
+      font-size: 2rem;
+    }
+
+    .subtitle p {
+      font-size: 1rem;
     }
   }
 </style>
