@@ -9,6 +9,14 @@
             "serviceDescription": "Carne Bovina Pura em Portugal: Sourcing e entrega de carne bovina de alta qualidade, obtida das regiões norte de Portugal, com foco na raça Barrosã. Os nossos critérios de seleção procuram apenas carnes de bovinos isentos de vacinas, sem antibióticos, sem hormonas e sem suplementos, criados seguindo métodos de agricultura regenerativa. Descubra a carne mais pura e saudável disponível em Portugal."
         },
         {
+            "patronName": "Luís Almeida",
+            "patronService": "Fire Evolution",
+            "contact": "+351 965018045",
+            "website": "https://www.facebook.com/profile.php?id=100057590622655",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/fire-evolution.jpeg",
+            "serviceDescription": "Carne assada de forma lenta, para garantir uma suculência maravilhosa."
+        },
+        {
             "patronName": "António Neves da Silva",
             "patronService": "mot.gg",
             "contact": "info@mot.gg",
