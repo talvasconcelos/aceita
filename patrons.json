@@ -33,36 +33,52 @@
             "serviceDescription": "Abrindo portas para sua carreira internacional em TI. Preparamos profissionais de TI para o mercado global com consultoria personalizada, estratégias práticas e insights de especialistas de diferentes áreas em TI que já atuam no exterior."
         },
         {
-        "patronName": "Maxfy",
-        "patronService": "Maxfy",
-        "contact": "hey@maxfy.app",
-        "website": "https://maxfy.app/",
-        "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/maxfy.jpeg",
-        "serviceDescription": "Compra de Bitcoin sem registo, sem KYC, 100% anónimo."
+            "patronName": "Maxfy",
+            "patronService": "Maxfy",
+            "contact": "hey@maxfy.app",
+            "website": "https://maxfy.app/",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/maxfy.jpeg",
+            "serviceDescription": "Compra de Bitcoin sem registo, sem KYC, 100% anónimo."
         },
         {
-        "patronName": "MAXIMA Citadel",
-        "patronService": "LotoMaxi",
-        "contact": "hello@maximacitadel.org",
-        "website": "https://lotomaxi.maximacitadel.org/",
-        "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/lotomaxi.jpeg",
-        "serviceDescription": "Aposta no preço da Bitcoin e ganha sats!"
+            "patronName": "MAXIMA Citadel",
+            "patronService": "LotoMaxi",
+            "contact": "hello@maximacitadel.org",
+            "website": "https://lotomaxi.maximacitadel.org/",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/lotomaxi.jpeg",
+            "serviceDescription": "Aposta no preço da Bitcoin e ganha sats!"
         },
         {
-        "patronName": "Leonardo Maximiliano, Guilherme Campos, Giovanni Dittrich",
-        "patronService": "DIY Security Lab",
-        "contact": "WhatsApp suporte +55 11 91905-0416",
-        "website": "https://diyseclab.io",
-        "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/diyseclab.png",
-        "serviceDescription": "És bitcoiner e queres guardar os teus bitcoins em autocustódia de forma ultra segura, mas não és hacker nem génio da informática? Nós ajudamos! Oferecemos uma hardware wallet fácil de montar e usar, totalmente air-gapped, sempre offline e sem memória permanente. Somos especialistas em Bitcoin, hardware wallets e comunicações. Ensinamos, de forma clara e simples, até a tua avó a montar uma das carteiras mais seguras do mercado. Código aberto, com todos os componentes hardware inspecionados por ti mesmo com a nossa ajuda do inicio ao final."
+            "patronName": "Leonardo Maximiliano, Guilherme Campos, Giovanni Dittrich",
+            "patronService": "DIY Security Lab",
+            "contact": "WhatsApp suporte +55 11 91905-0416",
+            "website": "https://diyseclab.io",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/diyseclab.png",
+            "serviceDescription": "És bitcoiner e queres guardar os teus bitcoins em autocustódia de forma ultra segura, mas não és hacker nem génio da informática? Nós ajudamos! Oferecemos uma hardware wallet fácil de montar e usar, totalmente air-gapped, sempre offline e sem memória permanente. Somos especialistas em Bitcoin, hardware wallets e comunicações. Ensinamos, de forma clara e simples, até a tua avó a montar uma das carteiras mais seguras do mercado. Código aberto, com todos os componentes hardware inspecionados por ti mesmo com a nossa ajuda do inicio ao final."
         },
         {
-        "patronName": "Leonardo Maximiliano, Guilherme Campos, Giovanni Dittrich",
-        "patronService": "Alfred P2P",
-        "contact": "WhatsApp suporte +55 11 91905-0416",
-        "website": "https://www.alfredp2p.io/en",
-        "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/alfredp2p.jpg",
-        "serviceDescription": "O primeiro p2p automatizado disponível em Portugal 🇵🇹 Compre seu BTC sem KYC em questão de minutos. Sem falar com ninguém. Apenas clicar pagar e receber teus Bitcoins de forma segura e anonima. No emails, No IDs, No troubles."
+            "patronName": "Leonardo Maximiliano, Guilherme Campos, Giovanni Dittrich",
+            "patronService": "Alfred P2P",
+            "contact": "WhatsApp suporte +55 11 91905-0416",
+            "website": "https://www.alfredp2p.io/en",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/alfredp2p.jpg",
+            "serviceDescription": "O primeiro p2p automatizado disponível em Portugal 🇵🇹 Compre seu BTC sem KYC em questão de minutos. Sem falar com ninguém. Apenas clicar pagar e receber teus Bitcoins de forma segura e anonima. No emails, No IDs, No troubles."
+        },
+        {
+            "patronName": "Fabiano Dias",
+            "patronService": "Bitwage",
+            "contact": "support@bitwage.com",
+            "website": "https://www.bitwage.com",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/bitwage.png",
+            "serviceDescription": "Bitwage permite que empresas e profissionais paguem e recebam salários e pagamentos de empresas em Bitcoin, Stablecoins e Moeda Fiat em qualquer proporção. É o sistema de payroll mais flexível do mercado global hoje"
+        },
+        {
+            "patronName": "Expa2u",
+            "patronService": "Expa2u",
+            "contact": "contact@expa2u.com",
+            "website": "https://expa2u.com/pt/",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/expa2u.jpeg",
+            "serviceDescription": "Somos advogados no Brasil, Itália e Portugal. Adeptos da Teoria das Bandeiras. Também temos parceiros na Argentina,  Dubai, Panamá, Paraguai, Espanha, Estados Unidos, Uruguai e em outros países. Realizamos buscas de documentos, aquisição de nacionalidades e vistos. Somos especializados em vistos para startups, empreendedorismo digital e internacionalização de empresas, com ênfase nas áreas de nomadismo digital, criptomoedas e blockchain."
         },
         {
             "patronName": "Francisco Quadrio Monteiro",
