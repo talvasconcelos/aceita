@@ -113,6 +113,14 @@
             "serviceDescription": "Two chains fight for the next block reward. Engage in lightning-fast PvP duels in this revamp of the classic snake game."
         },
         {
+            "patronName": "Alan Schramm de Lima",
+            "patronService": "Educação Real",
+            "contact": "contato@educareal.com",
+            "website": "www.educacaoreal.com",
+            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/educacao-real.png",
+            "serviceDescription": "A Educação Real é uma plataforma de ensino inovadora, focada em oferecer conteúdos de alta qualidade relacionados a Bitcoin, liberdade e soberania individual. Nossa missão é capacitar as pessoas em auto custódia."
+        },
+        {
             "patronName": "Carlos",
             "patronService": "psybitcoin",
             "contact": "support@psybitcoin.com",
