@@ -1,75 +1,100 @@
 {
-    "meetups": [
-        {
-            "name": "Portugal Norte - Bitcoin Meetup",
-            "location": {
-                "place": "French Fries Factory",
-                "address": "Rua do Bonjardim 302",
-                "city": "Porto"
-            },
-            "time": "2025-03-29 18:00:00Z",
-            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/meetups/porto.png",
-            "description": "Toxic Maxis Only - No Shitcoins Allowed",
-            "link": "https://t.me/btcnortept"
-        },{
-            "name": "Bitcoin e Liberdade Meetup",
-            "location": {
-                "place": "Alma do Raio",
-                "address": "Rua do Raio nº 38",
-                "city": "Braga"
-            },
-            "time": "2025-03-08 18:00:00Z",
-            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/meetups/norte.png",
-            "description": "Traz um amigo",
-            "link": "https://t.me/ancapbit"
-        },
-        {
-            "name": "Oeste Bitcoin Maxi Meetup",
-            "location": {
-                "place": "Restaurante Real Balcão 5",
-                "address": "Largo dos Heróis de Naulila 5",
-                "city": "Caldas da Rainha"
-            },
-            "time": "2025-03-22 18:00:00Z",
-            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/meetups/oeste.png",
-            "description": "No shitcoining - Ln Accepted",
-            "link": "https://t.me/OesteBitcoinMeetUp"
-        },
-        {
-            "name": "Lisbon Bitcoin Maxis",
-            "location": {
-                "place": "La Paparrucha",
-                "address": "R. Dom Pedro V 18 20, 1250-094",
-                "city": "Lisboa"
-            },
-            "time": "2025-04-3 19:21:00Z",
-            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/meetups/lisboa.png",
-            "description": "Traz um amigo",
-            "link": "https://t.me/lisbonbitcoin"
-        },
-        {
-            "name": "Bitcoin Tribe Algarve",
-            "location": {
-                "place": "Default Place",
-                "address": "Somewhere in Algarve",
-                "city": "Faro"
-            },
-            "time": "2025-05-22 18:00:00Z",
-            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/meetups/algarve.png",
-            "description": "No shitcoining - Ln Accepted",
-            "link": "https://signal.group/#CjQKIGVVt4H1X6Civ-rAfLWStKB9PCujSSbAeXlgqdAWtgujEhBZ-3z1cPIhzX8IF-FIr_t5"
-        },
-        {
-            "name": "FREE Madeira Bitcoin Meetup",
-            "location": {
-                "place": "Cowork Space Andre Loja",
-                "address": "FREE MADEIRA CoWorkSpace",
-                "city": "Funchal"
-            },
-            "time": "2025-03-22 18:00:00Z",
-            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/meetups/madeira.png",
-            "description": "No shitcoining - Ln Accepted",
-            "link": "https://t.me/freemadeira"
-        }
-    ]
+  "meetups": [
+    {
+      "name": "Portugal Norte - Bitcoin Meetup",
+      "location": {
+        "place": "French Fries Factory",
+        "address": "Rua do Bonjardim 302",
+        "city": "Porto"
+      },
+      "time": "2025-03-29 18:00:00Z",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/meetups/porto.png",
+      "description": "Toxic Maxis Only - No Shitcoins Allowed",
+      "link": "https://t.me/btcnortept"
+    },
+    {
+      "name": "Bitcoin e Liberdade Meetup",
+      "location": {
+        "place": "Alma do Raio",
+        "address": "Rua do Raio nº 38",
+        "city": "Braga"
+      },
+      "time": "2025-03-08 18:00:00Z",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/meetups/norte.png",
+      "description": "Traz um amigo",
+      "link": "https://t.me/ancapbit"
+    },
+    {
+      "name": "Coimbra Maxis",
+      "location": {
+        "place": "Somewhere in Coimbra",
+        "address": "We're not telling",
+        "city": "Coimbra"
+      },
+      "time": "2025-03-22 18:00:00Z",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/meetups/coimbra.png",
+      "description": "No shitcoining - Ln Accepted",
+      "link": "https://t.me/+qI6ndIjZQbllMzY0"
+    },
+    {
+      "name": "Oeste Bitcoin Maxi Meetup",
+      "location": {
+        "place": "Restaurante Real Balcão 5",
+        "address": "Largo dos Heróis de Naulila 5",
+        "city": "Caldas da Rainha"
+      },
+      "time": "2025-03-22 18:00:00Z",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/meetups/oeste.png",
+      "description": "No shitcoining - Ln Accepted",
+      "link": "https://t.me/OesteBitcoinMeetUp"
+    },
+    {
+      "name": "Lisbon Bitcoin Maxis",
+      "location": {
+        "place": "La Paparrucha",
+        "address": "R. Dom Pedro V 18 20, 1250-094",
+        "city": "Lisboa"
+      },
+      "time": "2025-04-3 19:21:00Z",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/meetups/lisboa.png",
+      "description": "Traz um amigo",
+      "link": "https://t.me/lisbonbitcoin"
+    },
+    {
+      "name": "Bitcoin Tribe Algarve",
+      "location": {
+        "place": "Default Place",
+        "address": "Somewhere in Algarve",
+        "city": "Faro"
+      },
+      "time": "2025-05-22 18:00:00Z",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/meetups/algarve.png",
+      "description": "No shitcoining - Ln Accepted",
+      "link": "https://signal.group/#CjQKIGVVt4H1X6Civ-rAfLWStKB9PCujSSbAeXlgqdAWtgujEhBZ-3z1cPIhzX8IF-FIr_t5"
+    },
+    {
+      "name": "FREE Madeira Bitcoin Meetup",
+      "location": {
+        "place": "Cowork Space Andre Loja",
+        "address": "FREE MADEIRA CoWorkSpace",
+        "city": "Funchal"
+      },
+      "time": "2025-03-22 18:00:00Z",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/meetups/madeira.png",
+      "description": "No shitcoining - Ln Accepted",
+      "link": "https://t.me/freemadeira"
+    },
+    {
+      "name": "Açores Toxic Bitcoin Maxis Meetup",
+      "location": {
+        "place": "Somewhere in the middle of the Atlantic",
+        "address": "Atlantis",
+        "city": "São Miguel"
+      },
+      "time": "2025-03-22 18:00:00Z",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/meetups/azores.png",
+      "description": "No shitcoining - Ln Accepted",
+      "link": "https://t.me/+tCisW-rz24ZiNDA0"
+    }
+  ]
 }
