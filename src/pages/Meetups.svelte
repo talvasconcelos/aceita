@@ -36,7 +36,7 @@
         fetchedMeetups.meetups.map(async (meetup) => {
           meetup.img = await fetchImage(meetup.img);
           return meetup;
-        })
+        }),
       );
     }
   });
@@ -49,6 +49,9 @@
       <div class="subtitle">
         <p>Descubra os encontros que decorrem perto de si</p>
       </div>
+      <h3>
+        "Nos liberi sumus, Rex noster liber est, manus nostrae nos liberverunt."
+      </h3>
     </header>
     <div class="card-grid">
       {#each meetups as meetup, i}
