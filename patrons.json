@@ -1,148 +1,148 @@
 {
-    "patrons": [
-        {
-            "patronName": "Choppork",
-            "patronService": "Ervaboca",
-            "contact": "ervaboca@proton.me",
-            "website": "https://www.ervaboca.pt",
-            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/ervaboca.png",
-            "serviceDescription": "Carne Bovina Pura em Portugal: Sourcing e entrega de carne bovina de alta qualidade, obtida das regiões norte de Portugal, com foco na raça Barrosã. Os nossos critérios de seleção procuram apenas carnes de bovinos isentos de vacinas, sem antibióticos, sem hormonas e sem suplementos, criados seguindo métodos de agricultura regenerativa. Descubra a carne mais pura e saudável disponível em Portugal."
-        },
-        {
-            "patronName": "Luís Almeida",
-            "patronService": "Fire Evolution",
-            "contact": "+351 965018045",
-            "website": "https://www.facebook.com/profile.php?id=100057590622655",
-            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/fire-evolution.jpeg",
-            "serviceDescription": "Carne assada de forma lenta, para garantir uma suculência maravilhosa."
-        },
-        {
-            "patronName": "António Neves da Silva",
-            "patronService": "mot.gg",
-            "contact": "info@mot.gg",
-            "website": "https://www.mot.gg",
-            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/motgg.jpeg",
-            "serviceDescription": "Inteligência energética: eLearning gratuito, formações presenciais, monitorização de consumos em tempo real."
-        },
-        {
-            "patronName": "Felipe Ojeda - Moshe Internacional",
-            "patronService": "Internacionalização - Paraguai",
-            "contact": "+55 11 964355344",
-            "website": "https://mosheinternacional.pulse.is/",
-            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/ojedamosheinternacional.jpg",
-            "serviceDescription": "Viabilizamos sua liberdade financeira com Assessoria em Internacionalização, Planejamento Tributário, Holding, Offshore e Visto para o Paraguai."
-        },
-        {
-            "patronName": "Camila Vargas, Gustavo Rodarte, Lígia Rolim, Luciano Rolim",
-            "patronService": "Passaporte Tech",
-            "contact": "E-mail: contato@passaporte.tech | WhatsApp: +55 11 94576-1989",
-            "website": "https://passaporte.tech/",
-            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/passaporTech.jpg",
-            "serviceDescription": "Abrindo portas para sua carreira internacional em TI. Preparamos profissionais de TI para o mercado global com consultoria personalizada, estratégias práticas e insights de especialistas de diferentes áreas em TI que já atuam no exterior."
-        },
-        {
-            "patronName": "Maxfy",
-            "patronService": "Maxfy",
-            "contact": "hey@maxfy.app",
-            "website": "https://maxfy.app/",
-            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/maxfy.jpeg",
-            "serviceDescription": "Compra de Bitcoin sem registo, sem KYC, 100% anónimo."
-        },
-        {
-            "patronName": "MAXIMA Citadel",
-            "patronService": "LotoMaxi",
-            "contact": "hello@maximacitadel.org",
-            "website": "https://lotomaxi.maximacitadel.org/",
-            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/lotomaxi.jpeg",
-            "serviceDescription": "Aposta no preço da Bitcoin e ganha sats!"
-        },
-        {
-            "patronName": "Dra. Cecília Isicke",
-            "patronService": "Dra Cecília Isicke - Medicina",
-            "contact": "draceciliaisicke@gmail.com",
-            "website": "https://www.instagram.com/draceciliaisicke/",
-            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/ceciliaisicke.jpg",
-            "serviceDescription": "Dra Cecilia, você pode passar exames, prescrever medicamentos, atender como médica em Portugal? SIM! E o que você atende? Clínica! Desde que você tenha o interesse e disposição de aplicar uma alimentação melhor e praticar exercícios físicos em busca de saúde (e estética também) faremos um excelente trabalho juntos! Sou tutora na Mentoria Avançada para Médicos do Dr Staak, uma das maiores referências em Medicina do Esporte e acompanhamento hormonal no Brasil! Sou atleta de powerlifting, estive em Mundiais e escrevi o livro Estratégias Alimentares Aplicadas ao Powerlifting com o powerlifter multirecordista e Mestre Hugo Quinteiro. Trabalho em conjunto com a nutricionista Bruna Rodrigues na equipe StaakMed, numa metodologia exclusiva para performance e estética Trabalho em conjunto com a nutricionista e treinadora Stephanie Sales em pacotes de Medicina, Treino e Dieta individualizados!"
-        },
-        {
-            "patronName": "Samuel",
-            "patronService": "Quanta - Explicações Particulares",
-            "contact": "quanta_aulas@gmail.com",
-            "website": "https://www.instagram.com/quanta_aulas",
-            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/quanta.jpg",
-            "serviceDescription": "Explicações sobre física, química, matemática entre outras."
-        },
-        {
-            "patronName": "Leonardo Maximiliano, Guilherme Campos, Giovanni Dittrich",
-            "patronService": "DIY Security Lab",
-            "contact": "WhatsApp suporte +55 11 91905-0416",
-            "website": "https://diyseclab.io",
-            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/diyseclab.png",
-            "serviceDescription": "És bitcoiner e queres guardar os teus bitcoins em autocustódia de forma ultra segura, mas não és hacker nem génio da informática? Nós ajudamos! Oferecemos uma hardware wallet fácil de montar e usar, totalmente air-gapped, sempre offline e sem memória permanente. Somos especialistas em Bitcoin, hardware wallets e comunicações. Ensinamos, de forma clara e simples, até a tua avó a montar uma das carteiras mais seguras do mercado. Código aberto, com todos os componentes hardware inspecionados por ti mesmo com a nossa ajuda do inicio ao final."
-        },
-        {
-            "patronName": "Leonardo Maximiliano, Guilherme Campos, Giovanni Dittrich",
-            "patronService": "Alfred P2P",
-            "contact": "WhatsApp suporte +55 11 91905-0416",
-            "website": "https://www.alfredp2p.io/en",
-            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/alfredp2p.jpg",
-            "serviceDescription": "O primeiro p2p automatizado disponível em Portugal 🇵🇹 Compre seu BTC sem KYC em questão de minutos. Sem falar com ninguém. Apenas clicar pagar e receber teus Bitcoins de forma segura e anonima. No emails, No IDs, No troubles."
-        },
-        {
-            "patronName": "Fabiano Dias",
-            "patronService": "Bitwage",
-            "contact": "support@bitwage.com",
-            "website": "https://www.bitwage.com",
-            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/bitwage.png",
-            "serviceDescription": "Bitwage permite que empresas e profissionais paguem e recebam salários e pagamentos de empresas em Bitcoin, Stablecoins e Moeda Fiat em qualquer proporção. É o sistema de payroll mais flexível do mercado global hoje"
-        },
-        {
-            "patronName": "Expa2u",
-            "patronService": "Expa2u",
-            "contact": "contact@expa2u.com",
-            "website": "https://expa2u.com/pt/",
-            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/expa2u.jpeg",
-            "serviceDescription": "Somos advogados no Brasil, Itália e Portugal. Adeptos da Teoria das Bandeiras. Também temos parceiros na Argentina,  Dubai, Panamá, Paraguai, Espanha, Estados Unidos, Uruguai e em outros países. Realizamos buscas de documentos, aquisição de nacionalidades e vistos. Somos especializados em vistos para startups, empreendedorismo digital e internacionalização de empresas, com ênfase nas áreas de nomadismo digital, criptomoedas e blockchain."
-        },
-        {
-            "patronName": "Francisco Quadrio Monteiro",
-            "patronService": "Bitcoin Consulting",
-            "contact": "zerofiat@themoneygame.pt",
-            "website": "https://www.themoneygame.pt/",
-            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/consultor.png",
-            "serviceDescription": "Serviço de Consultoria Bitcoiner"
-        },
-        {
-            "patronName": "Monstera Media",
-            "patronService": "Monstera Books",
-            "contact": "info@monsteramedia.com",
-            "website": "https://monsterabooks.com/",
-            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/monstera-books.png",
-            "serviceDescription": "Editora especializada em temas afectos a Bitcoin e liberdade."
-        },
-        {
-            "patronName": "Francis e Pedro",
-            "patronService": "Chain Duel",
-            "contact": "x.com/chainduel",
-            "website": "https://game.chainduel.net/",
-            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/chain-duel.jpg",
-            "serviceDescription": "Two chains fight for the next block reward. Engage in lightning-fast PvP duels in this revamp of the classic snake game."
-        },
-        {
-            "patronName": "Carlos",
-            "patronService": "psybitcoin",
-            "contact": "support@psybitcoin.com",
-            "website": "https://psybitcoin.com/",
-            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/psybitcoin.jpeg",
-            "serviceDescription": "Learn about money and bitcoin with video lessons in Portuguese"
-        },
-        {
-            "patronName": "Marcio Matos de Oliveira",
-            "patronService": "MMLaw Advogados",
-            "contact": "Avenida Fontes Pereira de Melo 35, 2A, 1250-118, Lisboa, Portugal - Telemóvel +351 913772903",
-            "website": "https://www.mmlaw.pt/",
-            "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/mmlaw.jpeg",
-            "serviceDescription": "Law Firm Boutique specialized in the Blockchain, Fintech, Banking and Energy Industries."
-        }
-    ]
+  "patrons": [
+    {
+      "patronName": "Choppork",
+      "patronService": "Ervaboca",
+      "contact": "ervaboca@proton.me",
+      "website": "https://www.ervaboca.pt",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/ervaboca.png",
+      "serviceDescription": "Carne Bovina Pura em Portugal: Sourcing e entrega de carne bovina de alta qualidade, obtida das regiões norte de Portugal, com foco na raça Barrosã. Os nossos critérios de seleção procuram apenas carnes de bovinos isentos de vacinas, sem antibióticos, sem hormonas e sem suplementos, criados seguindo métodos de agricultura regenerativa. Descubra a carne mais pura e saudável disponível em Portugal."
+    },
+    {
+      "patronName": "Luís Almeida",
+      "patronService": "Fire Evolution",
+      "contact": "+351 965018045",
+      "website": "https://www.facebook.com/profile.php?id=100057590622655",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/fire-evolution.jpeg",
+      "serviceDescription": "Carne assada de forma lenta, para garantir uma suculência maravilhosa."
+    },
+    {
+      "patronName": "António Neves da Silva",
+      "patronService": "mot.gg",
+      "contact": "info@mot.gg",
+      "website": "https://www.mot.gg",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/motgg.jpeg",
+      "serviceDescription": "Inteligência energética: eLearning gratuito, formações presenciais, monitorização de consumos em tempo real."
+    },
+    {
+      "patronName": "Felipe Ojeda - Moshe Internacional",
+      "patronService": "Internacionalização - Paraguai",
+      "contact": "+55 11 964355344",
+      "website": "https://mosheinternacional.pulse.is/",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/ojedamosheinternacional.jpg",
+      "serviceDescription": "Viabilizamos sua liberdade financeira com Assessoria em Internacionalização, Planejamento Tributário, Holding, Offshore e Visto para o Paraguai."
+    },
+    {
+      "patronName": "Camila Vargas, Gustavo Rodarte, Lígia Rolim, Luciano Rolim",
+      "patronService": "Passaporte Tech",
+      "contact": "E-mail: contato@passaporte.tech | WhatsApp: +55 11 94576-1989",
+      "website": "https://passaporte.tech/",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/passaporTech.jpg",
+      "serviceDescription": "Abrindo portas para sua carreira internacional em TI. Preparamos profissionais de TI para o mercado global com consultoria personalizada, estratégias práticas e insights de especialistas de diferentes áreas em TI que já atuam no exterior."
+    },
+    {
+      "patronName": "Maxfy",
+      "patronService": "Maxfy",
+      "contact": "hey@maxfy.app",
+      "website": "https://maxfy.app/",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/maxfy.jpeg",
+      "serviceDescription": "Compra de Bitcoin sem registo, sem KYC, 100% anónimo."
+    },
+    {
+      "patronName": "MAXIMA Citadel",
+      "patronService": "LotoMaxi",
+      "contact": "hello@maximacitadel.org",
+      "website": "https://lotomaxi.maximacitadel.org/",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/lotomaxi.jpeg",
+      "serviceDescription": "Aposta no preço da Bitcoin e ganha sats!"
+    },
+    {
+      "patronName": "Dra. Cecília Isicke",
+      "patronService": "Dra Cecília Isicke - Medicina",
+      "contact": "draceciliaisicke@gmail.com",
+      "website": "https://www.instagram.com/draceciliaisicke/",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/ceciliaisicke.jpg",
+      "serviceDescription": "Dra Cecilia, você pode passar exames, prescrever medicamentos, atender como médica em Portugal? SIM! E o que você atende? Clínica! Desde que você tenha o interesse e disposição de aplicar uma alimentação melhor e praticar exercícios físicos em busca de saúde (e estética também) faremos um excelente trabalho juntos! Sou tutora na Mentoria Avançada para Médicos do Dr Staak, uma das maiores referências em Medicina do Esporte e acompanhamento hormonal no Brasil! Sou atleta de powerlifting, estive em Mundiais e escrevi o livro Estratégias Alimentares Aplicadas ao Powerlifting com o powerlifter multirecordista e Mestre Hugo Quinteiro. Trabalho em conjunto com a nutricionista Bruna Rodrigues na equipe StaakMed, numa metodologia exclusiva para performance e estética Trabalho em conjunto com a nutricionista e treinadora Stephanie Sales em pacotes de Medicina, Treino e Dieta individualizados!"
+    },
+    {
+      "patronName": "Samuel",
+      "patronService": "Quanta - Explicações Particulares",
+      "contact": "quanta_aulas@gmail.com",
+      "website": "https://www.instagram.com/quanta_aulas",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/quanta.jpg",
+      "serviceDescription": "Explicações sobre física, química, matemática entre outras."
+    },
+    {
+      "patronName": "Leonardo Maximiliano, Guilherme Campos, Giovanni Dittrich",
+      "patronService": "DIY Security Lab",
+      "contact": "WhatsApp suporte +55 11 91905-0416",
+      "website": "https://diyseclab.io",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/diyseclab.png",
+      "serviceDescription": "És bitcoiner e queres guardar os teus bitcoins em autocustódia de forma ultra segura, mas não és hacker nem génio da informática? Nós ajudamos! Oferecemos uma hardware wallet fácil de montar e usar, totalmente air-gapped, sempre offline e sem memória permanente. Somos especialistas em Bitcoin, hardware wallets e comunicações. Ensinamos, de forma clara e simples, até a tua avó a montar uma das carteiras mais seguras do mercado. Código aberto, com todos os componentes hardware inspecionados por ti mesmo com a nossa ajuda do inicio ao final."
+    },
+    {
+      "patronName": "João Bordalo",
+      "patronService": "Helm Wallet",
+      "contact": "https://x.com/bordalix",
+      "website": "https://helm-wallet.com/",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/helm.png",
+      "serviceDescription": "I believe there's a huge gap between the ease of use of Wallet of Satoshi and the self-custody of Phoenix. To minimize this gap, I created a new web app, a wallet that has the self-custody of Phoenix and is easy to use as Wallet of Satoshi."
+    },
+    {
+      "patronName": "Fabiano Dias",
+      "patronService": "Bitwage",
+      "contact": "support@bitwage.com",
+      "website": "https://www.bitwage.com",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/bitwage.png",
+      "serviceDescription": "Bitwage permite que empresas e profissionais paguem e recebam salários e pagamentos de empresas em Bitcoin, Stablecoins e Moeda Fiat em qualquer proporção. É o sistema de payroll mais flexível do mercado global hoje"
+    },
+    {
+      "patronName": "Expa2u",
+      "patronService": "Expa2u",
+      "contact": "contact@expa2u.com",
+      "website": "https://expa2u.com/pt/",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/expa2u.jpeg",
+      "serviceDescription": "Somos advogados no Brasil, Itália e Portugal. Adeptos da Teoria das Bandeiras. Também temos parceiros na Argentina,  Dubai, Panamá, Paraguai, Espanha, Estados Unidos, Uruguai e em outros países. Realizamos buscas de documentos, aquisição de nacionalidades e vistos. Somos especializados em vistos para startups, empreendedorismo digital e internacionalização de empresas, com ênfase nas áreas de nomadismo digital, criptomoedas e blockchain."
+    },
+    {
+      "patronName": "Francisco Quadrio Monteiro",
+      "patronService": "Bitcoin Consulting",
+      "contact": "zerofiat@themoneygame.pt",
+      "website": "https://www.themoneygame.pt/",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/consultor.png",
+      "serviceDescription": "Serviço de Consultoria Bitcoiner"
+    },
+    {
+      "patronName": "Monstera Media",
+      "patronService": "Monstera Books",
+      "contact": "info@monsteramedia.com",
+      "website": "https://monsterabooks.com/",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/monstera-books.png",
+      "serviceDescription": "Editora especializada em temas afectos a Bitcoin e liberdade."
+    },
+    {
+      "patronName": "Francis e Pedro",
+      "patronService": "Chain Duel",
+      "contact": "x.com/chainduel",
+      "website": "https://game.chainduel.net/",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/chain-duel.jpg",
+      "serviceDescription": "Two chains fight for the next block reward. Engage in lightning-fast PvP duels in this revamp of the classic snake game."
+    },
+    {
+      "patronName": "Carlos",
+      "patronService": "psybitcoin",
+      "contact": "support@psybitcoin.com",
+      "website": "https://psybitcoin.com/",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/psybitcoin.jpeg",
+      "serviceDescription": "Learn about money and bitcoin with video lessons in Portuguese"
+    },
+    {
+      "patronName": "Marcio Matos de Oliveira",
+      "patronService": "MMLaw Advogados",
+      "contact": "Avenida Fontes Pereira de Melo 35, 2A, 1250-118, Lisboa, Portugal - Telemóvel +351 913772903",
+      "website": "https://www.mmlaw.pt/",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/mmlaw.jpeg",
+      "serviceDescription": "Law Firm Boutique specialized in the Blockchain, Fintech, Banking and Energy Industries."
+    }
+  ]
 }
