@@ -89,6 +89,22 @@
       "serviceDescription": "I believe there's a huge gap between the ease of use of Wallet of Satoshi and the self-custody of Phoenix. To minimize this gap, I created a new web app, a wallet that has the self-custody of Phoenix and is easy to use as Wallet of Satoshi."
     },
     {
+      "patronName": "Anon from the Internet I guess..",
+      "patronService": "BitWAY",
+      "contact": "https://x.com/anon",
+      "website": "https://bitway.me/",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/bitway.png",
+      "serviceDescription": "Swap bitcoin for an MB WAY code and withdraw euros at any Multibanco ATM — or sell MB WAY codes for bitcoin. Settles in minutes, non-custodial, no KYC."
+    },
+    {
+      "patronName": "Salicia",
+      "patronService": "KuteWallet",
+      "contact": "https://x.com/kutewallet",
+      "website": "https://kutewallet.com/",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/kutewallet.png",
+      "serviceDescription": "Payments, saving, investing, your account and card, and yes, Bitcoin, in one simple app that works the way you actually live. Everything the modern finance world offers, without needing five apps and a finance degree."
+    },
+    {
       "patronName": "Fabiano Dias",
       "patronService": "Bitwage",
       "contact": "support@bitwage.com",
