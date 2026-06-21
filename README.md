@@ -1,7 +1,5 @@
 # Bem-vindo ao Repositório do Projecto Aceita Bitcoin
 
-# "Nos liberi sumus, Rex noster liber est, manus nostrae nos liberverunt."
-
 ## Adicionar um Meetup
 
 ### Altere o ficheiro JSON meetups.json
