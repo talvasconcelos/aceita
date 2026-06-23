@@ -137,12 +137,28 @@
       "serviceDescription": "Editora especializada em temas afectos a Bitcoin e liberdade."
     },
     {
+      "patronName": "António Pais",
+      "patronService": "SATOSPOLIO",
+      "contact": "linkedin.com/in/redinp2t/",
+      "website": "https://satospolio.ddns.net/",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/satospolio.jpg",
+      "serviceDescription": "Um tabuleiro. Dois dinheiros. Um deles é real. Aprende a diferença entre satoshis verdadeiros e promessas de papel — a jogar."
+    },
+    {
       "patronName": "Francis e Pedro",
       "patronService": "Chain Duel",
       "contact": "x.com/chainduel",
       "website": "https://game.chainduel.net/",
       "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/chain-duel.jpg",
       "serviceDescription": "Two chains fight for the next block reward. Engage in lightning-fast PvP duels in this revamp of the classic snake game."
+    },
+    {
+      "patronName": "Francis e Pedro",
+      "patronService": "PUBPAY.me",
+      "contact": "x.com/BtcFrancis",
+      "website": "https://pubpay.me/",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/pubpay.png",
+      "serviceDescription": "Whether you're collecting donations, splitting bills, or selling services, PubPay lets you create payment requests that can be paid with just a few clicks."
     },
     {
       "patronName": "Carlos",
