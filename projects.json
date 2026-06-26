@@ -1,80 +1,88 @@
 {
   "projects": [
     {
-      "patronName": "António Neves da Silva",
-      "patronService": "mot.gg",
+      "projectName": "António Neves da Silva",
+      "projectService": "mot.gg",
       "contact": "info@mot.gg",
       "website": "https://www.mot.gg",
       "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/projects/motgg.jpeg",
       "serviceDescription": "Inteligência energética: eLearning gratuito, formações presenciais, monitorização de consumos em tempo real."
     },
     {
-      "patronName": "Maxfy",
-      "patronService": "Maxfy",
+      "patronName": "Choppork",
+      "patronService": "Ervaboca",
+      "contact": "ervaboca@proton.me",
+      "website": "https://www.ervaboca.pt",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/ervaboca.png",
+      "serviceDescription": "Carne Bovina Pura em Portugal: Sourcing e entrega de carne bovina de alta qualidade, obtida das regiões norte de Portugal, com foco na raça Barrosã. Os nossos critérios de seleção procuram apenas carnes de bovinos isentos de vacinas, sem antibióticos, sem hormonas e sem suplementos, criados seguindo métodos de agricultura regenerativa. Descubra a carne mais pura e saudável disponível em Portugal."
+    },
+    {
+      "projectName": "Maxfy",
+      "projectService": "Maxfy",
       "contact": "hey@maxfy.app",
       "website": "https://maxfy.app/",
       "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/projects/maxfy.jpeg",
       "serviceDescription": "Compra de Bitcoin sem registo, sem KYC, 100% anónimo."
     },
     {
-      "patronName": "MAXIMA Citadel",
-      "patronService": "LotoMaxi",
+      "projectName": "MAXIMA Citadel",
+      "projectService": "LotoMaxi",
       "contact": "hello@maximacitadel.org",
       "website": "https://lotomaxi.maximacitadel.org/",
       "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/projects/lotomaxi.jpeg",
       "serviceDescription": "Aposta no preço da Bitcoin e ganha sats!"
     },
     {
-      "patronName": "João Bordalo",
-      "patronService": "Helm Wallet",
+      "projectName": "João Bordalo",
+      "projectService": "Helm Wallet",
       "contact": "https://x.com/bordalix",
       "website": "https://helm-wallet.com/",
       "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/projects/helm.png",
       "serviceDescription": "I believe there's a huge gap between the ease of use of Wallet of Satoshi and the self-custody of Phoenix. To minimize this gap, I created a new web app, a wallet that has the self-custody of Phoenix and is easy to use as Wallet of Satoshi."
     },
     {
-      "patronName": "Anon from the Internet I guess..",
-      "patronService": "BitWAY",
+      "projectName": "Anon from the Internet I guess..",
+      "projectService": "BitWAY",
       "contact": "https://x.com/anon",
       "website": "https://bitway.me/",
       "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/projects/bitway.png",
       "serviceDescription": "Swap bitcoin for an MB WAY code and withdraw euros at any Multibanco ATM — or sell MB WAY codes for bitcoin. Settles in minutes, non-custodial, no KYC."
     },
     {
-      "patronName": "Salicia",
-      "patronService": "KuteWallet",
+      "projectName": "Salicia",
+      "projectService": "KuteWallet",
       "contact": "https://x.com/kutewallet",
       "website": "https://kutewallet.com/",
       "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/projects/kutewallet.png",
       "serviceDescription": "Payments, saving, investing, your account and card, and yes, Bitcoin, in one simple app that works the way you actually live. Everything the modern finance world offers, without needing five apps and a finance degree."
     },
     {
-      "patronName": "António Pais",
-      "patronService": "SATOSPOLIO",
+      "projectName": "António Pais",
+      "projectService": "SATOSPOLIO",
       "contact": "linkedin.com/in/redinp2t/",
       "website": "https://satospolio.ddns.net/",
       "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/projects/satospolio.jpg",
       "serviceDescription": "Um tabuleiro. Dois dinheiros. Um deles é real. Aprende a diferença entre satoshis verdadeiros e promessas de papel — a jogar."
     },
     {
-      "patronName": "Francis e Pedro",
-      "patronService": "Chain Duel",
+      "projectName": "Francis e Pedro",
+      "projectService": "Chain Duel",
       "contact": "x.com/chainduel",
       "website": "https://game.chainduel.net/",
       "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/projects/chain-duel.jpg",
       "serviceDescription": "Two chains fight for the next block reward. Engage in lightning-fast PvP duels in this revamp of the classic snake game."
     },
     {
-      "patronName": "Francis e Pedro",
-      "patronService": "PUBPAY.me",
+      "projectName": "Francis e Pedro",
+      "projectService": "PUBPAY.me",
       "contact": "x.com/BtcFrancis",
       "website": "https://pubpay.me/",
       "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/projects/pubpay.png",
       "serviceDescription": "Whether you're collecting donations, splitting bills, or selling services, PubPay lets you create payment requests that can be paid with just a few clicks."
     },
     {
-      "patronName": "Carlos",
-      "patronService": "psybitcoin",
+      "projectName": "Carlos",
+      "projectService": "psybitcoin",
       "contact": "support@psybitcoin.com",
       "website": "https://psybitcoin.com/",
       "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/projects/psybitcoin.jpeg",
