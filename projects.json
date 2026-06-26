@@ -5,7 +5,7 @@
       "patronService": "mot.gg",
       "contact": "info@mot.gg",
       "website": "https://www.mot.gg",
-      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/motgg.jpeg",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/projects/motgg.jpeg",
       "serviceDescription": "Inteligência energética: eLearning gratuito, formações presenciais, monitorização de consumos em tempo real."
     },
     {
@@ -13,7 +13,7 @@
       "patronService": "Maxfy",
       "contact": "hey@maxfy.app",
       "website": "https://maxfy.app/",
-      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/maxfy.jpeg",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/projects/maxfy.jpeg",
       "serviceDescription": "Compra de Bitcoin sem registo, sem KYC, 100% anónimo."
     },
     {
@@ -21,7 +21,7 @@
       "patronService": "LotoMaxi",
       "contact": "hello@maximacitadel.org",
       "website": "https://lotomaxi.maximacitadel.org/",
-      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/lotomaxi.jpeg",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/projects/lotomaxi.jpeg",
       "serviceDescription": "Aposta no preço da Bitcoin e ganha sats!"
     },
     {
@@ -29,7 +29,7 @@
       "patronService": "Helm Wallet",
       "contact": "https://x.com/bordalix",
       "website": "https://helm-wallet.com/",
-      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/helm.png",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/projects/helm.png",
       "serviceDescription": "I believe there's a huge gap between the ease of use of Wallet of Satoshi and the self-custody of Phoenix. To minimize this gap, I created a new web app, a wallet that has the self-custody of Phoenix and is easy to use as Wallet of Satoshi."
     },
     {
@@ -37,7 +37,7 @@
       "patronService": "BitWAY",
       "contact": "https://x.com/anon",
       "website": "https://bitway.me/",
-      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/bitway.png",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/projects/bitway.png",
       "serviceDescription": "Swap bitcoin for an MB WAY code and withdraw euros at any Multibanco ATM — or sell MB WAY codes for bitcoin. Settles in minutes, non-custodial, no KYC."
     },
     {
@@ -45,7 +45,7 @@
       "patronService": "KuteWallet",
       "contact": "https://x.com/kutewallet",
       "website": "https://kutewallet.com/",
-      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/kutewallet.png",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/projects/kutewallet.png",
       "serviceDescription": "Payments, saving, investing, your account and card, and yes, Bitcoin, in one simple app that works the way you actually live. Everything the modern finance world offers, without needing five apps and a finance degree."
     },
     {
@@ -53,7 +53,7 @@
       "patronService": "SATOSPOLIO",
       "contact": "linkedin.com/in/redinp2t/",
       "website": "https://satospolio.ddns.net/",
-      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/satospolio.jpg",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/projects/satospolio.jpg",
       "serviceDescription": "Um tabuleiro. Dois dinheiros. Um deles é real. Aprende a diferença entre satoshis verdadeiros e promessas de papel — a jogar."
     },
     {
@@ -61,7 +61,7 @@
       "patronService": "Chain Duel",
       "contact": "x.com/chainduel",
       "website": "https://game.chainduel.net/",
-      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/chain-duel.jpg",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/projects/chain-duel.jpg",
       "serviceDescription": "Two chains fight for the next block reward. Engage in lightning-fast PvP duels in this revamp of the classic snake game."
     },
     {
@@ -69,7 +69,7 @@
       "patronService": "PUBPAY.me",
       "contact": "x.com/BtcFrancis",
       "website": "https://pubpay.me/",
-      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/pubpay.png",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/projects/pubpay.png",
       "serviceDescription": "Whether you're collecting donations, splitting bills, or selling services, PubPay lets you create payment requests that can be paid with just a few clicks."
     },
     {
@@ -77,7 +77,7 @@
       "patronService": "psybitcoin",
       "contact": "support@psybitcoin.com",
       "website": "https://psybitcoin.com/",
-      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/psybitcoin.jpeg",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/projects/psybitcoin.jpeg",
       "serviceDescription": "Learn about money and bitcoin with video lessons in Portuguese"
     }
   ]
