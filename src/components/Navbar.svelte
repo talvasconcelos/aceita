@@ -15,6 +15,7 @@
     </Link>
 
     <div class="navbar-links">
+      <Link to="/projectos" class="nav-link">Projectos</Link>
       <Link to="/encontros" class="nav-link">Encontros</Link>
       <Link to="/eventos" class="nav-link">Eventos</Link>
       <Link to="/porque-bitcoin" class="nav-link">Porquê Bitcoin</Link>

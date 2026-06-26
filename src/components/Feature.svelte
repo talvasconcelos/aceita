@@ -1,7 +1,11 @@
 <script>
   import { Link } from "svelte-navigator";
-  export let img_right;
-  export let title, text, img, buttonText, buttonURL;
+  export let img_right = false;
+  export let title = "";
+  export let text = "";
+  export let img = "";
+  export let buttonText = "";
+  export let buttonURL = "";
 </script>
 
 <article class="columns {img_right ? 'right' : ''}">

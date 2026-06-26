@@ -17,14 +17,6 @@
       "serviceDescription": "Carne assada de forma lenta, para garantir uma suculência maravilhosa."
     },
     {
-      "patronName": "António Neves da Silva",
-      "patronService": "mot.gg",
-      "contact": "info@mot.gg",
-      "website": "https://www.mot.gg",
-      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/motgg.jpeg",
-      "serviceDescription": "Inteligência energética: eLearning gratuito, formações presenciais, monitorização de consumos em tempo real."
-    },
-    {
       "patronName": "Felipe Ojeda - Moshe Internacional",
       "patronService": "Internacionalização - Paraguai",
       "contact": "+55 11 964355344",
@@ -39,22 +31,6 @@
       "website": "https://passaporte.tech/",
       "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/passaporTech.jpg",
       "serviceDescription": "Abrindo portas para sua carreira internacional em TI. Preparamos profissionais de TI para o mercado global com consultoria personalizada, estratégias práticas e insights de especialistas de diferentes áreas em TI que já atuam no exterior."
-    },
-    {
-      "patronName": "Maxfy",
-      "patronService": "Maxfy",
-      "contact": "hey@maxfy.app",
-      "website": "https://maxfy.app/",
-      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/maxfy.jpeg",
-      "serviceDescription": "Compra de Bitcoin sem registo, sem KYC, 100% anónimo."
-    },
-    {
-      "patronName": "MAXIMA Citadel",
-      "patronService": "LotoMaxi",
-      "contact": "hello@maximacitadel.org",
-      "website": "https://lotomaxi.maximacitadel.org/",
-      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/lotomaxi.jpeg",
-      "serviceDescription": "Aposta no preço da Bitcoin e ganha sats!"
     },
     {
       "patronName": "Dra. Cecília Isicke",
@@ -79,30 +55,6 @@
       "website": "https://diyseclab.io",
       "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/diyseclab.png",
       "serviceDescription": "És bitcoiner e queres guardar os teus bitcoins em autocustódia de forma ultra segura, mas não és hacker nem génio da informática? Nós ajudamos! Oferecemos uma hardware wallet fácil de montar e usar, totalmente air-gapped, sempre offline e sem memória permanente. Somos especialistas em Bitcoin, hardware wallets e comunicações. Ensinamos, de forma clara e simples, até a tua avó a montar uma das carteiras mais seguras do mercado. Código aberto, com todos os componentes hardware inspecionados por ti mesmo com a nossa ajuda do inicio ao final."
-    },
-    {
-      "patronName": "João Bordalo",
-      "patronService": "Helm Wallet",
-      "contact": "https://x.com/bordalix",
-      "website": "https://helm-wallet.com/",
-      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/helm.png",
-      "serviceDescription": "I believe there's a huge gap between the ease of use of Wallet of Satoshi and the self-custody of Phoenix. To minimize this gap, I created a new web app, a wallet that has the self-custody of Phoenix and is easy to use as Wallet of Satoshi."
-    },
-    {
-      "patronName": "Anon from the Internet I guess..",
-      "patronService": "BitWAY",
-      "contact": "https://x.com/anon",
-      "website": "https://bitway.me/",
-      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/bitway.png",
-      "serviceDescription": "Swap bitcoin for an MB WAY code and withdraw euros at any Multibanco ATM — or sell MB WAY codes for bitcoin. Settles in minutes, non-custodial, no KYC."
-    },
-    {
-      "patronName": "Salicia",
-      "patronService": "KuteWallet",
-      "contact": "https://x.com/kutewallet",
-      "website": "https://kutewallet.com/",
-      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/kutewallet.png",
-      "serviceDescription": "Payments, saving, investing, your account and card, and yes, Bitcoin, in one simple app that works the way you actually live. Everything the modern finance world offers, without needing five apps and a finance degree."
     },
     {
       "patronName": "Fabiano Dias",
@@ -135,38 +87,6 @@
       "website": "https://monsterabooks.com/",
       "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/monstera-books.png",
       "serviceDescription": "Editora especializada em temas afectos a Bitcoin e liberdade."
-    },
-    {
-      "patronName": "António Pais",
-      "patronService": "SATOSPOLIO",
-      "contact": "linkedin.com/in/redinp2t/",
-      "website": "https://satospolio.ddns.net/",
-      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/satospolio.jpg",
-      "serviceDescription": "Um tabuleiro. Dois dinheiros. Um deles é real. Aprende a diferença entre satoshis verdadeiros e promessas de papel — a jogar."
-    },
-    {
-      "patronName": "Francis e Pedro",
-      "patronService": "Chain Duel",
-      "contact": "x.com/chainduel",
-      "website": "https://game.chainduel.net/",
-      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/chain-duel.jpg",
-      "serviceDescription": "Two chains fight for the next block reward. Engage in lightning-fast PvP duels in this revamp of the classic snake game."
-    },
-    {
-      "patronName": "Francis e Pedro",
-      "patronService": "PUBPAY.me",
-      "contact": "x.com/BtcFrancis",
-      "website": "https://pubpay.me/",
-      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/pubpay.png",
-      "serviceDescription": "Whether you're collecting donations, splitting bills, or selling services, PubPay lets you create payment requests that can be paid with just a few clicks."
-    },
-    {
-      "patronName": "Carlos",
-      "patronService": "psybitcoin",
-      "contact": "support@psybitcoin.com",
-      "website": "https://psybitcoin.com/",
-      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/psybitcoin.jpeg",
-      "serviceDescription": "Learn about money and bitcoin with video lessons in Portuguese"
     },
     {
       "patronName": "Marcio Matos de Oliveira",

@@ -20,7 +20,6 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
-    "node-sass": "^9.0.0",
     "qrcode": "^1.5.0",
     "sirv-cli": "^1.0.0",
     "spectre.css": "^0.5.9",

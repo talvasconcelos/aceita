@@ -4,6 +4,7 @@
   import Footer from "./components/Footer.svelte";
   import Home from "./pages/Home.svelte";
   import Events from "./pages/Events.svelte";
+  import Projects from "./pages/Projects.svelte";
   import Meetups from "./pages/Meetups.svelte";
   import Donate from "./pages/Donate.svelte";
   import Podcast from "./pages/Podcast.svelte";
@@ -17,6 +18,9 @@
   <main>
     <Route path="/">
       <Home />
+    </Route>
+    <Route path="/projectos">
+      <Projects />
     </Route>
     <Route path="/encontros">
       <Meetups />
