@@ -1,6 +1,14 @@
 {
   "patrons": [
     {
+      "patronName": "Guilherme Bandeira",
+      "patronService": "Solidus Wealth",
+      "contact": "contato@soliduswealth.org",
+      "website": "https://www.soliduswealth.org/",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/solidus.png",
+      "serviceDescription": "Solidus Wealth gives the sovereign individual the structure to keep their Bitcoin and digital assets truly under their own control. Professional self-custody, bespoke legal architecture, and succession planning designed for multigenerational wealth."
+    },
+    {
       "patronName": "Luís Almeida",
       "patronService": "Fire Evolution",
       "contact": "+351 965018045",
