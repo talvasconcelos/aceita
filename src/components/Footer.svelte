@@ -106,6 +106,7 @@
           <h4>Links</h4>
           <ul>
             <li><Link to="/">Home</Link></li>
+            <li><Link to="/projectos">Projectos</Link></li>
             <li><Link to="/encontros">Encontros</Link></li>
             <li><Link to="/eventos">Eventos</Link></li>
             <li><Link to="/podcast">Podcast</Link></li>

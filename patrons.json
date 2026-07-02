@@ -1,12 +1,12 @@
 {
   "patrons": [
     {
-      "patronName": "Choppork",
-      "patronService": "Ervaboca",
-      "contact": "ervaboca@proton.me",
-      "website": "https://www.ervaboca.pt",
-      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/ervaboca.png",
-      "serviceDescription": "Carne Bovina Pura em Portugal: Sourcing e entrega de carne bovina de alta qualidade, obtida das regiões norte de Portugal, com foco na raça Barrosã. Os nossos critérios de seleção procuram apenas carnes de bovinos isentos de vacinas, sem antibióticos, sem hormonas e sem suplementos, criados seguindo métodos de agricultura regenerativa. Descubra a carne mais pura e saudável disponível em Portugal."
+      "patronName": "Guilherme Bandeira",
+      "patronService": "Solidus Wealth",
+      "contact": "contato@soliduswealth.org",
+      "website": "https://www.soliduswealth.org/",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/patrons/solidus.png",
+      "serviceDescription": "Solidus Wealth gives the sovereign individual the structure to keep their Bitcoin and digital assets truly under their own control. Professional self-custody, bespoke legal architecture, and succession planning designed for multigenerational wealth."
     },
     {
       "patronName": "Luís Almeida",
