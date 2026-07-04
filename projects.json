@@ -25,6 +25,14 @@
       "serviceDescription": "Compra de Bitcoin sem registo, sem KYC, 100% anónimo."
     },
     {
+      "projectName": "Hugo Ramos",
+      "projectService": "Medusa Wallet",
+      "contact": "https://x.com/_Hugo_Ramos_",
+      "website": "https://go.medusa.bz/",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/projects/medusa.png",
+      "serviceDescription": "Medusa is a simple lightning wallet where you can buy non-KYC sats."
+    },
+    {
       "projectName": "MAXIMA Citadel",
       "projectService": "LotoMaxi",
       "contact": "hello@maximacitadel.org",
