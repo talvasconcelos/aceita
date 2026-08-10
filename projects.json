@@ -49,6 +49,22 @@
       "serviceDescription": "I believe there's a huge gap between the ease of use of Wallet of Satoshi and the self-custody of Phoenix. To minimize this gap, I created a new web app, a wallet that has the self-custody of Phoenix and is easy to use as Wallet of Satoshi."
     },
     {
+      "projectName": "Pedro",
+      "projectService": "SATSIGNER",
+      "contact": "https://x.com/pedromvpg",
+      "website": "https://satsigner.com/",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/projects/satsigner.png",
+      "serviceDescription": "Take control of your UTXOs"
+    },
+    {
+      "projectName": "Nuno Coelho",
+      "projectService": "BlueWallet",
+      "contact": "https://x.com/bc1nuno",
+      "website": "https://bluewallet.io/",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/projects/bluewallet.jpg",
+      "serviceDescription": "Radically Simple & Powerful Bitcoin Wallet"
+    },
+    {
       "projectName": "Anon from the Internet I guess..",
       "projectService": "BitWAY",
       "contact": "https://x.com/anon",
@@ -87,6 +103,14 @@
       "website": "https://pubpay.me/",
       "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/projects/pubpay.png",
       "serviceDescription": "Whether you're collecting donations, splitting bills, or selling services, PubPay lets you create payment requests that can be paid with just a few clicks."
+    },
+    {
+      "projectName": "Tiago Balas",
+      "projectService": "alphaama",
+      "contact": "npub1nmr6w7qk0ta36vxysv77jv3d5rqghfc6d8sez8240rf3gja4vsmsd2yha8",
+      "website": "https://alphaama.com/",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/projects/alphaama.png",
+      "serviceDescription": "alphaama is just a nostr fucking client"
     },
     {
       "projectName": "Carlos",
