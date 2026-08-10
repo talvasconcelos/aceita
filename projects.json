@@ -57,6 +57,14 @@
       "serviceDescription": "Take control of your UTXOs"
     },
     {
+      "projectName": "Nuno Coelho",
+      "projectService": "BlueWallet",
+      "contact": "https://x.com/bc1nuno",
+      "website": "https://bluewallet.io/",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/projects/bluewallet.jpg",
+      "serviceDescription": "Radically Simple & Powerful Bitcoin Wallet"
+    },
+    {
       "projectName": "Anon from the Internet I guess..",
       "projectService": "BitWAY",
       "contact": "https://x.com/anon",
@@ -95,6 +103,14 @@
       "website": "https://pubpay.me/",
       "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/projects/pubpay.png",
       "serviceDescription": "Whether you're collecting donations, splitting bills, or selling services, PubPay lets you create payment requests that can be paid with just a few clicks."
+    },
+    {
+      "projectName": "Tiago Balas",
+      "projectService": "alphaama",
+      "contact": "npub1nmr6w7qk0ta36vxysv77jv3d5rqghfc6d8sez8240rf3gja4vsmsd2yha8",
+      "website": "https://alphaama.com/",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/projects/alphaama.png",
+      "serviceDescription": "alphaama is just a nostr fucking client"
     },
     {
       "projectName": "Carlos",
