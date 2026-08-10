@@ -49,6 +49,14 @@
       "serviceDescription": "I believe there's a huge gap between the ease of use of Wallet of Satoshi and the self-custody of Phoenix. To minimize this gap, I created a new web app, a wallet that has the self-custody of Phoenix and is easy to use as Wallet of Satoshi."
     },
     {
+      "projectName": "Pedro",
+      "projectService": "SATSIGNER",
+      "contact": "https://x.com/pedromvpg",
+      "website": "https://satsigner.com/",
+      "img": "https://raw.githubusercontent.com/talvasconcelos/aceita/main/public/images/projects/satsigner.png",
+      "serviceDescription": "Take control of your UTXOs"
+    },
+    {
       "projectName": "Anon from the Internet I guess..",
       "projectService": "BitWAY",
       "contact": "https://x.com/anon",
